@@ -1,0 +1,72 @@
+{
+  "version": "0.1",
+  "date": "2026-10-10",
+  "standard": "central v1.3",
+  "playableSpecies": 18,
+  "playablePoints": [
+    "harbor",
+    "reef",
+    "offshore"
+  ],
+  "confirmed": {
+    "offshoreAccess": "小型釣魚船，選釣點後直接抵達"
+  },
+  "images": [
+    {
+      "id": "deck",
+      "original": "C:\\Users\\User\\Documents\\Codex\\2026-10-01\\new-chat\\outputs\\fishing-offshore-kit-v1\\originals\\offshore_deck_v0.1.png",
+      "sha256": "04b152cc9e4c559048dbac977669f9cd7d8542db6ed3ea69ba0da00e0c36b765",
+      "runtime": "../../assets/offshore-v1/deck.webp",
+      "status": "playable_pending_art_review"
+    },
+    {
+      "id": "panorama",
+      "original": "C:\\Users\\User\\Documents\\Codex\\2026-10-01\\new-chat\\outputs\\fishing-offshore-kit-v1\\originals\\offshore_panorama_v0.1.png",
+      "sha256": "f345c309f3c1ac77405e765cc52bbe080426c3f24ab090521e70f2e06a922316",
+      "runtime": "../../assets/offshore-v1/panorama.webp",
+      "status": "playable_pending_art_review"
+    }
+  ],
+  "newFish": [
+    "iwashi",
+    "katsuo",
+    "buri"
+  ],
+  "notCanon": [
+    "new offshore boat appearance",
+    "new fish art",
+    "point weights",
+    "new fish size ranges"
+  ],
+  "pending": [
+    "user visual/playtest acceptance",
+    "optional dedicated Flow animations"
+  ],
+  "sourcesPreserved": true,
+  "fish": [
+    {
+      "id": "iwashi",
+      "status": "playable_pending_art_review",
+      "original": "C:\\Users\\User\\Documents\\Codex\\2026-10-01\\new-chat\\outputs\\fishing-offshore-kit-v1\\originals\\iwashi_v0.1.png",
+      "sha256": "b2dbc5c82063d9ebc4ef3588c3819f94598daf8499f64ba67736b8684bdf0bb4",
+      "runtime": "../../assets/fish-v1/iwashi.webp",
+      "flowAnimation": false
+    },
+    {
+      "id": "katsuo",
+      "status": "playable_pending_art_review",
+      "original": "C:\\Users\\User\\Documents\\Codex\\2026-10-01\\new-chat\\outputs\\fishing-offshore-kit-v1\\originals\\katsuo_v0.1.png",
+      "sha256": "3c82bc25c7a3b0006efda2b528745a5daf6e2cbe4534f8a36eb509ea1906f964",
+      "runtime": "../../assets/fish-v1/katsuo.webp",
+      "flowAnimation": false
+    },
+    {
+      "id": "buri",
+      "status": "playable_pending_art_review",
+      "original": "C:\\Users\\User\\Documents\\Codex\\2026-10-01\\new-chat\\outputs\\fishing-offshore-kit-v1\\originals\\buri_v0.1.png",
+      "sha256": "02b5627c110a62166a91860c39c583009708d5de745b7a54bbc05869b8f0cf4f",
+      "runtime": "../../assets/fish-v1/buri.webp",
+      "flowAnimation": false
+    }
+  ]
+}

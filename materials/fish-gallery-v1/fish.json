@@ -1,0 +1,1297 @@
+[
+  {
+    "id": "aji",
+    "number": 1,
+    "name": "竹筴魚",
+    "image": "../../assets/mackerel.png",
+    "hint": "常連續輕啄，也會游開再回來。衝刺時跟住魚影，喘息時收線。",
+    "range": [
+      20,
+      32
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "常見"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/aji.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/aji.webp"
+  },
+  {
+    "id": "saba",
+    "number": 2,
+    "name": "鯖魚",
+    "image": "../../assets/saba.png",
+    "hint": "會急停試探、扯餌後鬆開。上鉤後會衝刺、連續折返。",
+    "range": [
+      28,
+      43
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "常見"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      },
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "常見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/saba.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/saba.webp"
+  },
+  {
+    "id": "octopus",
+    "number": 3,
+    "name": "章魚",
+    "image": "../../assets/octopus.png",
+    "hint": "會試扯魚餌、游開觀望。上鉤後會蓄力下沉。",
+    "range": [
+      12,
+      24
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/octopus.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/octopus.webp"
+  },
+  {
+    "id": "madai",
+    "number": 4,
+    "name": "真鯛",
+    "image": "../../assets/fish-v1/madai.webp",
+    "hint": "會先輕啄、退開。上鉤後跟住轉向，喘息時收線。",
+    "range": [
+      25,
+      65
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "少見"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/madai.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/madai.webp"
+  },
+  {
+    "id": "flounder",
+    "number": 5,
+    "name": "比目魚",
+    "image": "../../assets/fish-v1/flounder.webp",
+    "hint": "常在餌旁停住，試扯後鬆開。上鉤後會蓄力下沉。",
+    "range": [
+      30,
+      72
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/flounder.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/flounder.webp"
+  },
+  {
+    "id": "squid",
+    "number": 6,
+    "name": "魷魚",
+    "image": "../../assets/fish-v1/squid.webp",
+    "hint": "會衝近魚餌後退開。上鉤後會轉向、短衝。",
+    "range": [
+      18,
+      46
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "少見"
+      },
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "常見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/squid.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/squid.webp"
+  },
+  {
+    "id": "puffer",
+    "number": 7,
+    "name": "河豚",
+    "image": "../../assets/fish-v1/puffer.webp",
+    "hint": "常連續輕啄。僅供觀察收藏。",
+    "range": [
+      12,
+      30
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/puffer.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/puffer.webp"
+  },
+  {
+    "id": "tuna",
+    "number": 8,
+    "name": "黃鰭鮪魚",
+    "image": "../../assets/fish-v1/tuna.webp",
+    "hint": "會急停試探。上鉤後衝刺強，喘息時收線。",
+    "range": [
+      70,
+      155
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/tuna.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/tuna.webp"
+  },
+  {
+    "id": "mahi",
+    "number": 9,
+    "name": "鬼頭刀",
+    "image": "../../assets/fish-v1/mahi.webp",
+    "hint": "會衝近、煞住、折返，也會停留觀望。",
+    "range": [
+      55,
+      125
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/mahi.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/mahi.webp"
+  },
+  {
+    "id": "ray",
+    "number": 10,
+    "name": "魟魚",
+    "image": "../../assets/fish-v1/ray.webp",
+    "hint": "會試扯魚餌後離開。上鉤後持續跟住魚影。",
+    "range": [
+      45,
+      105
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/ray.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/ray.webp"
+  },
+  {
+    "id": "hammerhead",
+    "number": 11,
+    "name": "雙髻鯊",
+    "image": "../../assets/fish-v1/hammerhead.webp",
+    "hint": "會繞餌觀望。上鉤後跟住衝刺，喘息時收線。",
+    "range": [
+      90,
+      180
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/hammerhead.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/hammerhead.webp"
+  },
+  {
+    "id": "oarfish",
+    "number": 12,
+    "name": "皇帶魚",
+    "image": "../../assets/fish-v1/oarfish.webp",
+    "hint": "常游開觀望，也可能突然咬牢。",
+    "range": [
+      180,
+      420
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/oarfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/oarfish.webp"
+  },
+  {
+    "id": "kasago",
+    "number": 13,
+    "name": "石狗公",
+    "image": "../../assets/fish-v1/kasago.webp",
+    "hint": "會在餌旁觀望，也可能直接咬牢。上鉤後常蓄力下沉。",
+    "range": [
+      18,
+      30
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "常見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kasago.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kasago.webp"
+  },
+  {
+    "id": "kawahagi",
+    "number": 14,
+    "name": "剝皮魚",
+    "image": "../../assets/fish-v1/kawahagi.webp",
+    "hint": "常輕啄、試扯後鬆開。等魚餌被持續拖走再提竿。",
+    "range": [
+      15,
+      28
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kawahagi.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kawahagi.webp"
+  },
+  {
+    "id": "ishidai",
+    "number": 15,
+    "name": "石鯛",
+    "image": "../../assets/fish-v1/ishidai.webp",
+    "hint": "會退開觀望、回頭試餌。上鉤後會蓄力下沉，喘息時收線。",
+    "range": [
+      25,
+      45
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/ishidai.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/ishidai.webp"
+  },
+  {
+    "id": "iwashi",
+    "number": 16,
+    "name": "日本沙丁魚",
+    "image": "../../assets/fish-v1/iwashi.webp",
+    "hint": "會連續輕啄，也可能試扯後鬆開。等魚餌持續被拖走再提竿。",
+    "range": [
+      15,
+      25
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "常見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/iwashi.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/iwashi.webp"
+  },
+  {
+    "id": "katsuo",
+    "number": 17,
+    "name": "鰹魚",
+    "image": "../../assets/fish-v1/katsuo.webp",
+    "hint": "會快速掠過、折返試餌。上鉤後常連續轉向與短衝。",
+    "range": [
+      35,
+      70
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "常見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/katsuo.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/katsuo.webp"
+  },
+  {
+    "id": "buri",
+    "number": 18,
+    "name": "鰤魚",
+    "image": "../../assets/fish-v1/buri.webp",
+    "hint": "會退開觀望，再突然衝近。上鉤後衝刺強，喘息時收線。",
+    "range": [
+      60,
+      105
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/buri.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/buri.webp"
+  },
+  {
+    "id": "kurodai",
+    "number": 19,
+    "name": "黑鯛",
+    "image": "../../assets/fish-v1/kurodai.webp",
+    "hint": "會試扯魚餌後退開。上鉤後常蓄力下沉，喘息時收線。",
+    "range": [
+      25,
+      48
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kurodai.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kurodai.webp"
+  },
+  {
+    "id": "kijihata",
+    "number": 20,
+    "name": "花斑石斑魚",
+    "image": "../../assets/fish-v1/kijihata-light-v1.webp",
+    "hint": "常停留觀望，也可能直接咬牢。上鉤後會蓄力下沉。",
+    "range": [
+      20,
+      40
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/kijihata.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/kijihata.webp"
+  },
+  {
+    "id": "tachiuo",
+    "number": 21,
+    "name": "白帶魚",
+    "image": "../../assets/fish-v1/tachiuo.webp",
+    "hint": "會快速接近、折返試餌。上鉤後常短衝與轉向。",
+    "range": [
+      60,
+      120
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/tachiuo.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/tachiuo.webp"
+  },
+  {
+    "id": "suzuki",
+    "number": 22,
+    "name": "鱸魚",
+    "image": "../../assets/fish-v1/suzuki.webp",
+    "hint": "會試扯、衝近再退開。上鉤後會短衝，喘息時收線。",
+    "range": [
+      40,
+      90
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/suzuki.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/suzuki.webp"
+  },
+  {
+    "id": "isaki",
+    "number": 23,
+    "name": "三線磯鱸",
+    "image": "../../assets/fish-v1/isaki.webp",
+    "hint": "常連續輕啄，也會停留觀望。等魚餌持續被拖走再提竿。",
+    "range": [
+      18,
+      36
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/isaki.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/isaki.webp"
+  },
+  {
+    "id": "sawara",
+    "number": 24,
+    "name": "鰆魚",
+    "image": "../../assets/fish-v1/sawara.webp",
+    "hint": "會快速掠過、折返試餌。上鉤後常衝刺與連續轉向。",
+    "range": [
+      50,
+      100
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/sawara.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/sawara.webp"
+  },
+  {
+    "id": "shirogisu",
+    "number": 25,
+    "name": "日本沙鮻",
+    "image": "../../assets/fish-v1/shirogisu.webp",
+    "hint": "會連續輕啄、試扯後退開。等魚餌持續被拖走再提竿。",
+    "range": [
+      12,
+      26
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/shirogisu.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/shirogisu.webp"
+  },
+  {
+    "id": "dorome",
+    "number": 26,
+    "name": "大口鰕虎魚",
+    "image": "../../assets/fish-v1/dorome.webp",
+    "hint": "會在餌旁停留、輕啄後退開。等魚餌持續被拖走再提竿。",
+    "range": [
+      8,
+      18
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/dorome.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/dorome.webp"
+  },
+  {
+    "id": "shiromebaru",
+    "number": 27,
+    "name": "白鮶",
+    "image": "../../assets/fish-v1/shiromebaru.webp",
+    "hint": "會在餌旁觀望，也可能直接咬牢。上鉤後常蓄力下沉。",
+    "range": [
+      15,
+      30
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/shiromebaru.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/shiromebaru.webp"
+  },
+  {
+    "id": "ainame",
+    "number": 28,
+    "name": "大瀧六線魚",
+    "image": "../../assets/fish-v1/ainame.webp",
+    "hint": "會試扯魚餌、退開再靠近。上鉤後會蓄力下沉，喘息時收線。",
+    "range": [
+      20,
+      45
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/ainame.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/ainame.webp"
+  },
+  {
+    "id": "kanpachi",
+    "number": 29,
+    "name": "紅甘",
+    "image": "../../assets/fish-v1/kanpachi.webp",
+    "hint": "會迅速衝近、折返試餌。上鉤後衝刺強，喘息時收線。",
+    "range": [
+      55,
+      110
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kanpachi.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kanpachi.webp"
+  },
+  {
+    "id": "shimaaji",
+    "number": 30,
+    "name": "縞鯵",
+    "image": "../../assets/fish-v1/shimaaji.webp",
+    "hint": "會衝近、退開再回頭。上鉤後常短衝與轉向。",
+    "range": [
+      30,
+      65
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/shimaaji.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/shimaaji.webp"
+  },
+  {
+    "id": "bora",
+    "number": 31,
+    "name": "烏魚",
+    "image": "../../assets/fish-v1/bora.webp",
+    "hint": "會連續輕啄、試扯後退開。上鉤後跟住魚影，喘息時收線。",
+    "range": [
+      20,
+      55
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/bora.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/bora.webp"
+  },
+  {
+    "id": "umitanago",
+    "number": 32,
+    "name": "海鱮",
+    "image": "../../assets/fish-v1/umitanago.webp",
+    "hint": "會在餌旁輕啄、退開再靠近。等魚餌持續被拖走再提竿。",
+    "range": [
+      12,
+      28
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/umitanago.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/umitanago.webp"
+  },
+  {
+    "id": "utsubo",
+    "number": 33,
+    "name": "海鱔",
+    "image": "../../assets/fish-v1/utsubo-light-v1.webp",
+    "hint": "會停留觀望，也可能直接咬牢。上鉤後常蓄力下沉。",
+    "range": [
+      40,
+      100
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/utsubo.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/utsubo.webp"
+  },
+  {
+    "id": "lionfish",
+    "number": 34,
+    "name": "獅子魚",
+    "image": "../../assets/fish-v1/lionfish.webp",
+    "hint": "會在餌旁觀望、試扯後退開。上鉤後跟住魚影。",
+    "range": [
+      15,
+      35
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/lionfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/lionfish.webp"
+  },
+  {
+    "id": "aoriika",
+    "number": 35,
+    "name": "軟絲",
+    "image": "../../assets/fish-v1/aoriika.webp",
+    "hint": "會衝近魚餌再退開。上鉤後常短衝與轉向，喘息時收線。",
+    "range": [
+      15,
+      40
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/aoriika.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/aoriika.webp"
+  },
+  {
+    "id": "kouika",
+    "number": 36,
+    "name": "花枝",
+    "image": "../../assets/fish-v1/kouika.webp",
+    "hint": "會試扯魚餌、停留再退開。上鉤後常蓄力下沉。",
+    "range": [
+      12,
+      30
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kouika.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kouika.webp"
+  },
+  {
+    "id": "tobiuo",
+    "number": 37,
+    "name": "飛魚",
+    "image": "../../assets/fish-v1/tobiuo.webp",
+    "hint": "會突然衝近魚餌。上鉤後常短衝與轉向，喘息時收線。",
+    "range": [
+      18,
+      35
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/tobiuo.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/tobiuo.webp"
+  },
+  {
+    "id": "sailfish",
+    "number": 38,
+    "name": "雨傘旗魚",
+    "image": "../../assets/fish-v1/sailfish-polished-v1.webp",
+    "hint": "會迅速衝向魚餌。上鉤後留意短衝與轉向，跟住魚影收線。",
+    "range": [
+      180,
+      280
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/sailfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/sailfish.webp"
+  },
+  {
+    "id": "sunfish",
+    "number": 39,
+    "name": "翻車魚",
+    "image": "../../assets/fish-v1/sunfish-light-v1.webp",
+    "hint": "會停留觀望、試扯後退開。上鉤後常蓄力下沉。",
+    "range": [
+      70,
+      180
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/sunfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/sunfish.webp"
+  },
+  {
+    "id": "kinmedai",
+    "number": 40,
+    "name": "金目鯛",
+    "image": "../../assets/fish-v1/kinmedai-light-v1.webp",
+    "hint": "會輕啄、試扯後再靠近。等魚餌持續被拖走再提竿。",
+    "range": [
+      20,
+      45
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/kinmedai.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/kinmedai.webp"
+  },
+  {
+    "id": "sajori",
+    "number": 41,
+    "name": "日本下鱵",
+    "image": "../../assets/fish-v1/sajori.webp",
+    "hint": "會連續輕啄，接著突然短衝。等魚餌持續被拖走再提竿。",
+    "range": [
+      15,
+      35
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/sajori.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/sajori.webp"
+  },
+  {
+    "id": "anago",
+    "number": 42,
+    "name": "繁星糯鰻",
+    "image": "../../assets/fish-v1/anago.webp",
+    "hint": "會停留試扯，咬牢後常蓄力下沉。跟住魚影，喘息時收線。",
+    "range": [
+      30,
+      70
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/anago.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/anago.webp"
+  },
+  {
+    "id": "managatsuo",
+    "number": 43,
+    "name": "銀鯧",
+    "image": "../../assets/fish-v1/managatsuo.webp",
+    "hint": "會反覆輕啄、試扯再退開。上鉤後保持穩定，跟住魚影收線。",
+    "range": [
+      15,
+      35
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/managatsuo.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/managatsuo.webp"
+  },
+  {
+    "id": "shiroguchi",
+    "number": 44,
+    "name": "白姑魚",
+    "image": "../../assets/fish-v1/shiroguchi.webp",
+    "hint": "會輕啄、試扯後退開。咬牢後穩定轉向，跟住魚影收線。",
+    "range": [
+      18,
+      35
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/shiroguchi.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/shiroguchi.webp"
+  },
+  {
+    "id": "goatfish",
+    "number": 45,
+    "name": "黑斑緋鯉",
+    "image": "../../assets/fish-v1/goatfish.webp",
+    "hint": "會輕啄、試扯後退開。咬牢後穩定轉向，跟住魚影收線。",
+    "range": [
+      12,
+      25
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/goatfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/goatfish.webp"
+  },
+  {
+    "id": "rabbitfish",
+    "number": 46,
+    "name": "褐臭肚魚",
+    "image": "../../assets/fish-v1/rabbitfish.webp",
+    "hint": "會停留觀望，再試扯魚餌。上鉤後常蓄力下沉，喘息時收線。",
+    "range": [
+      15,
+      30
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      },
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/rabbitfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/rabbitfish.webp"
+  },
+  {
+    "id": "clownfish",
+    "number": 47,
+    "name": "克氏雙鋸魚",
+    "image": "../../assets/fish-v1/clownfish-light-v1.webp",
+    "hint": "會輕啄、試扯後退開。咬牢後穩定轉向，跟住魚影收線。僅供收藏。",
+    "range": [
+      6,
+      15
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/clownfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/clownfish.webp"
+  },
+  {
+    "id": "bluetang",
+    "number": 48,
+    "name": "擬刺尾鯛",
+    "image": "../../assets/fish-v1/bluetang-light-v1.webp",
+    "hint": "會快速掠過、折返試餌。上鉤後有短衝，喘息時收線。僅供收藏。",
+    "range": [
+      10,
+      25
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/bluetang.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/bluetang.webp"
+  },
+  {
+    "id": "moorish",
+    "number": 49,
+    "name": "角鐮魚",
+    "image": "../../assets/fish-v1/moorish-light-v1.webp",
+    "hint": "會輕啄、試扯後退開。咬牢後穩定轉向，跟住魚影收線。僅供收藏。",
+    "range": [
+      10,
+      22
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/moorish.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/moorish.webp"
+  },
+  {
+    "id": "butterflyfish",
+    "number": 50,
+    "name": "黃鑷口魚",
+    "image": "../../assets/fish-v1/butterflyfish-light-v1.webp",
+    "hint": "會輕啄、試扯後退開。咬牢後穩定轉向，跟住魚影收線。僅供收藏。",
+    "range": [
+      8,
+      20
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/butterflyfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/butterflyfish.webp"
+  },
+  {
+    "id": "damselfish",
+    "number": 51,
+    "name": "三斑圓雀鯛",
+    "image": "../../assets/fish-v1/damselfish.webp",
+    "hint": "會快速掠過、折返試餌。上鉤後有短衝，喘息時收線。僅供收藏。",
+    "range": [
+      4,
+      9
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/damselfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/damselfish.webp"
+  },
+  {
+    "id": "batfish",
+    "number": 52,
+    "name": "尖翅燕魚",
+    "image": "../../assets/fish-v1/batfish-light-v1.webp",
+    "hint": "會停留觀望，再試扯魚餌。上鉤後常蓄力下沉，喘息時收線。僅供收藏。",
+    "range": [
+      10,
+      15
+    ],
+    "points": [
+      {
+        "id": "reef",
+        "name": "礁岩海岸",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/batfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/batfish.webp"
+  },
+  {
+    "id": "sanma",
+    "number": 53,
+    "name": "秋刀魚",
+    "image": "../../assets/fish-v1/sanma.webp",
+    "hint": "會快速掠過、折返試餌。上鉤後有短衝，喘息時收線。",
+    "range": [
+      20,
+      35
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "少見"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/sanma.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/sanma.webp"
+  },
+  {
+    "id": "cobia",
+    "number": 54,
+    "name": "海鱺",
+    "image": "../../assets/fish-v1/cobia.webp",
+    "hint": "會停留觀望，再試扯魚餌。上鉤後常蓄力下沉，喘息時收線。",
+    "range": [
+      45,
+      110
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/cobia.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/cobia.webp"
+  },
+  {
+    "id": "albacore",
+    "number": 55,
+    "name": "長鰭鮪",
+    "image": "../../assets/fish-v1/albacore-polished-v1.webp",
+    "hint": "會快速掠過、折返試餌。上鉤後有短衝，喘息時收線。",
+    "range": [
+      55,
+      105
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/albacore.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/albacore.webp"
+  },
+  {
+    "id": "swordfish",
+    "number": 56,
+    "name": "劍旗魚",
+    "image": "../../assets/fish-v1/swordfish-polished-v1.webp",
+    "hint": "會快速掠過、折返試餌。上鉤後有短衝，喘息時收線。",
+    "range": [
+      100,
+      210
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/swordfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/swordfish.webp"
+  },
+  {
+    "id": "blueshark",
+    "number": 57,
+    "name": "大青鯊",
+    "image": "../../assets/fish-v1/blueshark-light-v1.webp",
+    "hint": "會停留觀望，再試扯魚餌。上鉤後常蓄力下沉，喘息時收線。僅供收藏。",
+    "range": [
+      110,
+      230
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/blueshark.webp",
+    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/blueshark.webp"
+  },
+  {
+    "id": "threadfish",
+    "number": 58,
+    "name": "絲鰺",
+    "image": "../../assets/fish-v1/threadfish.webp",
+    "hint": "會快速掠過、折返試餌。上鉤後有短衝，喘息時收線。僅供收藏。",
+    "range": [
+      18,
+      28
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/threadfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/threadfish.webp"
+  },
+  {
+    "id": "anglerfish",
+    "number": 59,
+    "name": "黃鮟鱇",
+    "image": "../../assets/fish-v1/anglerfish.webp",
+    "hint": "會停留觀望，再試扯魚餌。上鉤後常蓄力下沉，喘息時收線。",
+    "range": [
+      50,
+      100
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/anglerfish.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/anglerfish.webp"
+  },
+  {
+    "id": "chimaera",
+    "number": 60,
+    "name": "太平洋長吻銀鮫",
+    "image": "../../assets/fish-v1/chimaera.webp",
+    "hint": "會停留觀望，再試扯魚餌。上鉤後常蓄力下沉，喘息時收線。僅供收藏。",
+    "range": [
+      72,
+      125
+    ],
+    "points": [
+      {
+        "id": "offshore",
+        "name": "外海釣場",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/chimaera.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/chimaera.webp"
+  },
+  {
+    "id": "unagi",
+    "number": 61,
+    "name": "日本鰻鱺",
+    "image": "../../assets/fish-v1/unagi.webp",
+    "hint": "會輕扯魚餌、停留再拉走。上鉤後常蓄力下沉，喘息時收線。",
+    "range": [
+      35,
+      85
+    ],
+    "points": [
+      {
+        "id": "harbor",
+        "name": "港內碼頭",
+        "frequency": "稀有"
+      }
+    ],
+    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/unagi.webp",
+    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/unagi.webp"
+  }
+]

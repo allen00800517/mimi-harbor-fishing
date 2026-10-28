@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#102b40">
+  <meta name="description" content="魚屋篇完整開場節奏預覽：採買、嗆聲、接下挑戰、釣具落桌與眼神回擊。">
+  <title>蜜蜜餐廳｜魚屋篇</title>
+  <link rel="stylesheet" href="./story.css">
+</head>
+<body>
+<main class="screen" id="screen" aria-label="魚屋篇開場故事">
+  <div class="art-stage" id="artStage"><img id="art" class="art" alt="" draggable="false"></div>
+  <div class="shade" aria-hidden="true"></div>
+  <header class="topbar">
+    <button type="button" id="homeButton" class="small-button" hidden>回標題</button>
+    <span id="progress" class="progress">魚屋篇</span>
+    <button type="button" id="replayBeat" class="small-button" hidden>重播這一幕</button>
+    <button type="button" id="soundButton" class="small-button" aria-pressed="true">音效：開</button>
+  </header>
+  <section class="title-screen" id="titleScreen" aria-label="遊戲標題">
+    <h1 class="sr-only">ミーミーの 買い出しラッシュ！魚屋篇</h1>
+    <div class="title-flow-anchor" aria-hidden="true"><canvas id="titleWater" class="title-flow-water" width="1" height="1"></canvas></div>
+<div class="title-flow-anchor foreground" aria-hidden="true"><canvas id="titleWaterFront" class="title-flow-water water-front" width="1" height="1"></canvas></div>
+    <img id="logo" class="logo" alt="ミーミーの 買い出しラッシュ！魚屋篇" draggable="false">
+    <div class="title-actions"><button type="button" class="start" id="startButton" disabled>START</button><p id="titleHint" class="title-hint" hidden></p><button type="button" class="small-button" id="replayOpening" hidden>重看開場</button><p id="entrySaveError" role="alert" hidden>故事進度無法讀取，請重新載入；原有紀錄已保留。</p><button type="button" class="text-button" id="materialsButton">分鏡與原圖</button></div><a id="devEntry" href="../../?dev=1" hidden></a>
+  </section>
+  <button type="button" id="tapGate" class="tap-gate" aria-label="點一下開始"><img src="./art/tap-to-start.webp" alt="" draggable="false"></button>
+  <section id="storyPanel" class="story-panel" aria-label="劇情對話" hidden>
+    <div class="speaker-row"><span id="speaker" class="speaker"></span><button type="button" class="small-button peek" id="peekButton" aria-pressed="false">看完整圖</button></div>
+    <div class="dialogue"><p id="text" aria-hidden="true"></p><p id="accessibleText" class="sr-only" aria-live="polite"></p></div>
+    <nav class="page-controls" aria-label="劇情翻頁"><button type="button" id="previousButton" class="small-button">上一句</button><span id="pageTitle"></span><button type="button" id="nextButton" class="next-button">繼續 <span aria-hidden="true">▸</span></button></nav>
+  </section>
+  <button type="button" id="restoreText" class="restore-text small-button" hidden>返回對話</button>
+  <section class="end-panel" id="endPanel" aria-label="開場故事結束" hidden>
+    <h2>等著瞧，我會證明給你看！</h2>
+    <a class="start game-link" href="../../?mode=story">開始釣魚</a>
+    <button type="button" id="replayButton" class="small-button">重看故事</button>
+    <button type="button" id="endMaterials" class="text-button">查看分鏡與原圖</button>
+  </section>
+  <div id="loading" class="loading" role="status"><span>載入中…</span></div>
+  <div id="errorPanel" class="error-panel" role="alert" hidden><p>載入失敗，閱讀位置已保留。</p><button type="button" id="retryButton" class="next-button">重新載入</button></div>
+  <noscript><div class="error-panel">請開啟 JavaScript 播放故事，或<a href="./review.html">查看分鏡與原圖</a>。</div></noscript>
+</main>
+<dialog id="materialsDialog" class="materials-dialog">
+  <form method="dialog"><button class="small-button close" aria-label="關閉分鏡">關閉 ✕</button></form>
+  <p class="eyebrow">魚屋篇・開場故事第二版</p><h2>從被看輕，到親手證明</h2>
+  <p class="material-note">十三個段落。「伸手停住 → 收手抬眼 → 炸魚排？？？」為一次連續演出，手部特寫伸到一半時定格一秒半，伸手前與下一鏡的節奏照舊，中途不用翻頁，播完才等你繼續。其他對話和無台詞畫面都由你翻頁，可跳到指定段落。包含老闆指向平價魚貨、帶著怒氣走向碼頭的銜接圖，以及落桶撞擊聲與輕海浪底聲，可切換靜音。尚無配音。</p>
+  <ol id="sceneList"></ol>
+  <div class="material-links"><a href="./review.html">完整分鏡與台詞</a><a href="../story-conflict-v2/impact.html">釣具落桌分鏡</a><a href="../story-opening-v1/index.html">第一版備用</a></div>
+</dialog>
+<script type="module" src="./story.mjs"></script>
+<script type="module" src="./handoff.mjs"></script>
+<script type="module" src="./continuation.mjs"></script>
+</body></html>

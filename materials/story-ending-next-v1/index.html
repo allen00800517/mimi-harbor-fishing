@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#102b40"><title>魚屋篇｜回店與合作</title><link rel="stylesheet" href="./review.css"></head>
+<body><main class="reader" aria-label="回店到試吃分鏡試播">
+<img id="art" alt="" draggable="false">
+<video id="motion" playsinline preload="none" hidden aria-label="女主角將滿載的魚桶放到桌上"></video>
+<button id="motion-toggle" hidden>暫停動畫</button>
+<button id="sound-toggle" hidden aria-pressed="true">音效：開</button>
+<header><a href="../../">回標題</a><span id="counter">1 / 13</span><button id="peek" aria-pressed="false">看完整圖</button></header>
+<section id="caption" class="caption"><p id="speaker" class="speaker"></p><h1 id="line" aria-live="polite"></h1><p id="direction" class="direction"></p><nav><button id="prev" disabled>上一句</button><button id="next">繼續 ▸</button></nav></section>
+<div id="loading" role="status">載入中…</div>
+<div id="error" role="alert" hidden><p>載入失敗，請重試。</p><button id="retry">重新載入</button></div>
+<section id="complete" class="complete" hidden><h2>結尾分鏡試播完畢</h2><p>邀請台詞已定案。端菜、試吃與收尾的畫面和後段台詞供這次確認。</p><button id="replay">重看劇情</button><a id="challenge-link" href="../../?mode=story">返回挑戰</a><a id="free-link" href="../../?mode=free">繼續釣魚</a><a id="normal-link" href="../../?mode=normal" hidden>前往鮮魚店</a><a id="title-link" href="../../" hidden>回到標題</a></section>
+<noscript>請開啟 JavaScript 以播放分鏡。</noscript>
+</main><script type="module" src="./review.mjs"></script></body></html>
+
+

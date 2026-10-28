@@ -1,0 +1,95 @@
+{
+  "version": "0.2",
+  "date": "2026-10-10",
+  "standard": "central v1.3",
+  "generation": "builtin image_gen",
+  "originalsPreserved": true,
+  "playableSpecies": 18,
+  "plannedSpecies": 18,
+  "fish": [
+    {
+      "id": "kasago",
+      "name": "石狗公",
+      "scientificName": "Sebastiscus marmoratus",
+      "status": "playable_pending_art_review",
+      "plannedSpot": "reef",
+      "sha256": "8b63e0451afb091f7d25e5e737a557fbee10de9c6b83b2a43c0149eb9e2b45d2",
+      "runtime": "../../assets/fish-v1/kasago.webp",
+      "flowAnimation": false
+    },
+    {
+      "id": "kawahagi",
+      "name": "剝皮魚",
+      "scientificName": "Stephanolepis cirrhifer",
+      "status": "playable_pending_art_review",
+      "plannedSpot": "reef",
+      "sha256": "6341bad5d3ada1b662feb6307f3e3359c31f43d48d7ae82263cb1d1796a9bca8",
+      "runtime": "../../assets/fish-v1/kawahagi.webp",
+      "flowAnimation": false
+    },
+    {
+      "id": "ishidai",
+      "name": "石鯛",
+      "scientificName": "Oplegnathus fasciatus",
+      "status": "playable_pending_art_review",
+      "plannedSpot": "reef",
+      "sha256": "bb1612a649013ed17bb3e1ff90be6795d75160495579b904d1d0c421e92b8164",
+      "runtime": "../../assets/fish-v1/ishidai.webp",
+      "flowAnimation": false
+    },
+    {
+      "id": "iwashi",
+      "name": "日本沙丁魚",
+      "scientificName": "Sardinops melanostictus",
+      "status": "playable_pending_art_review",
+      "plannedSpot": "harbor",
+      "sha256": "b2dbc5c82063d9ebc4ef3588c3819f94598daf8499f64ba67736b8684bdf0bb4",
+      "runtime": "../../assets/fish-v1/iwashi.webp",
+      "flowAnimation": false
+    },
+    {
+      "id": "katsuo",
+      "name": "鰹魚",
+      "scientificName": "Katsuwonus pelamis",
+      "status": "playable_pending_art_review",
+      "plannedSpot": "offshore",
+      "sha256": "3c82bc25c7a3b0006efda2b528745a5daf6e2cbe4534f8a36eb509ea1906f964",
+      "runtime": "../../assets/fish-v1/katsuo.webp",
+      "flowAnimation": false
+    },
+    {
+      "id": "buri",
+      "name": "鰤魚",
+      "scientificName": "Seriola quinqueradiata",
+      "status": "playable_pending_art_review",
+      "plannedSpot": "offshore",
+      "sha256": "02b5627c110a62166a91860c39c583009708d5de745b7a54bbc05869b8f0cf4f",
+      "runtime": "../../assets/fish-v1/buri.webp",
+      "flowAnimation": false
+    }
+  ],
+  "reefPool": {
+    "aji": 8,
+    "saba": 6,
+    "octopus": 14,
+    "madai": 12,
+    "flounder": 8,
+    "squid": 10,
+    "puffer": 6,
+    "ray": 4,
+    "kasago": 14,
+    "kawahagi": 10,
+    "ishidai": 8
+  },
+  "pending": [
+    "user art review",
+    "regional visual and difficulty playtest",
+    "dedicated Flow catch animation if requested"
+  ],
+  "notCanon": [
+    "reef topography",
+    "new fish artwork",
+    "spawn weights",
+    "new size ranges"
+  ]
+}
