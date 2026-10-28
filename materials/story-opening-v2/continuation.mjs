@@ -21,6 +21,9 @@ function leave(event,target){
  };
  if(window.cherryTitleMusic?.fadeOut(500))setTimeout(go,500);else go();
 }
+// Opened on its own (not inside the game page), a title restored from Safari's back/forward cache after leaving would keep
+// leaving=true and ignore START; start it fresh instead (2026-10-29).
+window.addEventListener('pageshow',event=>{if(event.persisted&&leaving)location.reload();});
 start.addEventListener('click',event=>{
  if(error){event.preventDefault();event.stopImmediatePropagation();return;}
  if(!bypass&&mode)leave(event,mode);
