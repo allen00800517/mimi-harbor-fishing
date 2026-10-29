@@ -1,3 +1,5 @@
+// 2026-10-29 (the user): the game follows the iPhone ring/silent switch, so it never surprises anyone in public: set before any sound or video plays.
+try { if (globalThis.navigator?.audioSession) navigator.audioSession.type = 'ambient'; } catch {}
 import {storageKey} from '../../development-context.mjs';
 // A small, independent story mix. No queued late one-shots and no gameplay audio changes.
 export class StoryAudio {
@@ -13,7 +15,7 @@ export class StoryAudio {
     // Use the same media category as approved native clips on iPhone.
     // Restore the host category whenever story playback stops or hands off.
     try {
-      const next = active && this.enabled && !this.disposed ? 'playback' : this.originalSessionType;
+      const next = 'ambient'; // 2026-10-29 (the user): the game follows the iPhone ring/silent switch, so it never surprises anyone in public
       if (this.session && this.session.type !== next) this.session.type = next;
     } catch { /* Optional in browsers without AudioSession support. */ }
   }
@@ -129,8 +131,8 @@ export class TitleMusic {
   resume() {
     if (!this.enabled || this.disposed) return;
     this.prepare();
-    // Same media category as the story mix, so the ring/silent switch behaves like the rest of the game.
-    try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch {}
+    // Same category as the story mix: 'ambient' follows the ring/silent switch like the rest of the game.
+    try { if (navigator.audioSession) navigator.audioSession.type = 'ambient'; } catch {}
     try { void this.context?.resume().catch(() => {}); } catch {}
   }
   get playing() { return !!this.source || !!this.wanted; }

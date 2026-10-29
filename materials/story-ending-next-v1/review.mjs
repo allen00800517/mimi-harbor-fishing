@@ -1,6 +1,8 @@
 import {storageKey,isDevelopment,developmentHref} from '../../development-context.mjs';
 import {shots} from './shots.mjs';
 import {loadFirstVisit,saveEndingBeat,completeFirstVisit,challengeCatchCount,CHALLENGE_KEY} from '../../first-visit.mjs';
+// 2026-10-29 (the user): the game follows the iPhone ring/silent switch, so it never surprises anyone in public: the ending's video clips follow the switch too.
+try{if(navigator.audioSession)navigator.audioSession.type='ambient';}catch{}
 export {shots};
 const $=id=>document.getElementById(id),reader=document.querySelector('.reader'),video=$('motion');
 const integrated=new URLSearchParams(location.search).get('from')==='challenge';
