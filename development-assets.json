@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T19:48:23.314Z",
-  "bytes": 55751553,
+  "generatedAt": "2026-10-29T06:27:56.582Z",
+  "bytes": 55995267,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -1473,6 +1473,10 @@
     {
       "path": "materials/story-opening-v2/art/tap-to-start.webp",
       "bytes": 44160
+    },
+    {
+      "path": "materials/story-opening-v2/art/title-background-tall.webp",
+      "bytes": 243714
     },
     {
       "path": "materials/story-opening-v2/art/title-flow-splash-v1.webp",

@@ -46,3 +46,5 @@ html:not(.review-mode) #progress{display:none}
 .tap-gate img{width:min(62%,300px);height:auto;filter:drop-shadow(0 3px 6px #0006);animation:gateBreath 1.8s ease-in-out infinite;pointer-events:none}
 @keyframes gateBreath{0%,100%{transform:scale(1);opacity:.88}50%{transform:scale(1.04);opacity:1}}
 @media(prefers-reduced-motion:reduce){.tap-gate img{animation:none}}
+/* Tall cover (sky added on top): keep the bottom anchored so shorter screens lose added sky, never the harbour. */
+.art.title-art{object-position:50% 100%}

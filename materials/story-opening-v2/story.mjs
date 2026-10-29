@@ -155,7 +155,9 @@ async function showHome() {
   $('titleScreen').hidden = false; $('titleScreen').classList.remove('is-ready');
   $('storyPanel').hidden = $('endPanel').hidden = true;
   $('homeButton').hidden = true; $('replayBeat').hidden = true; $('progress').textContent = '魚屋篇';
-  const bg = imageRequest('../story-opening-v1/art/title-background.webp', '夏日日本港町與魚市場，女主角準備進店買魚。', 'art');
+  // 2026-10-29: the cover extended upward with sky to about 9:20 (original pixels untouched, source-media/title-tall-v1), so a
+  // tall iPhone shows the whole harbour instead of cropping its sides; shorter screens crop the added sky first.
+  const bg = imageRequest('./art/title-background-tall.webp', '夏日日本港町與魚市場，女主角準備進店買魚。', 'art');
   const title = imageRequest('../story-opening-v1/art/title-transparent.webp', 'ミーミーの 買い出しラッシュ！魚屋篇', 'logo');
   // Decoration has a bounded fallback. A failed splash cannot
   // prevent START or delay a cold title indefinitely.
@@ -166,7 +168,7 @@ async function showHome() {
   try {
     const [bgImg, titleImg, hasWater] = await Promise.all([bg.promise, title.promise, waterReady]);
     if (token !== request) return;
-    installArt(bgImg, 'soft'); clip.clear(); delete $('screen').dataset.clipState;
+    installArt(bgImg, 'soft'); bgImg.classList.add('title-art'); clip.clear(); delete $('screen').dataset.clipState;
     const oldLogo = logo; titleImg.id = 'logo'; oldLogo.replaceWith(titleImg); oldLogo.removeAttribute('src'); logo = titleImg;
     $('titleScreen').classList.toggle('has-title-water', hasWater);
     pending = []; setBusy(false);
