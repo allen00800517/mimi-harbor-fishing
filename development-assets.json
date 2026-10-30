@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T19:57:29.377Z",
-  "bytes": 81304029,
+  "generatedAt": "2026-10-30T20:20:50.296Z",
+  "bytes": 82938775,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 1514578
+      "bytes": 1685790
     },
     {
       "path": "assets/bobber.png",
@@ -724,19 +724,19 @@
     },
     {
       "path": "assets/mobile-loading-v1/shirogisu-struggle-v1/body.webp",
-      "bytes": 307022
+      "bytes": 535318
     },
     {
       "path": "assets/mobile-loading-v1/shirogisu-struggle-v1/effect.webp",
-      "bytes": 210532
+      "bytes": 1378888
     },
     {
       "path": "assets/mobile-loading-v1/shiroguchi-struggle-v1/body.webp",
-      "bytes": 815400
+      "bytes": 565724
     },
     {
       "path": "assets/mobile-loading-v1/shiroguchi-struggle-v1/effect.webp",
-      "bytes": 255294
+      "bytes": 571852
     },
     {
       "path": "assets/mobile-loading-v1/squid-struggle-v1/body.webp",
