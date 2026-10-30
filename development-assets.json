@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T18:45:36.369Z",
-  "bytes": 71813715,
+  "generatedAt": "2026-10-30T19:14:01.997Z",
+  "bytes": 74471815,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 872034
+      "bytes": 1035994
     },
     {
       "path": "assets/bobber.png",
@@ -571,6 +571,14 @@
       "bytes": 141662
     },
     {
+      "path": "assets/mobile-loading-v1/kurodai-struggle-v1/body.webp",
+      "bytes": 883942
+    },
+    {
+      "path": "assets/mobile-loading-v1/kurodai-struggle-v1/effect.webp",
+      "bytes": 529074
+    },
+    {
       "path": "assets/mobile-loading-v1/madai-struggle-v1/body-01.webp",
       "bytes": 363200
     },
@@ -697,6 +705,14 @@
     {
       "path": "assets/mobile-loading-v1/summer-sun-video-v1/start.webp",
       "bytes": 31056
+    },
+    {
+      "path": "assets/mobile-loading-v1/suzuki-struggle-v1/body.webp",
+      "bytes": 584464
+    },
+    {
+      "path": "assets/mobile-loading-v1/suzuki-struggle-v1/effect.webp",
+      "bytes": 496660
     },
     {
       "path": "assets/mobile-loading-v1/ui-action-button.webp",
