@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T19:46:09.317Z",
-  "bytes": 78147677,
+  "generatedAt": "2026-10-30T19:57:29.377Z",
+  "bytes": 81304029,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 1281234
+      "bytes": 1514578
     },
     {
       "path": "assets/bobber.png",
@@ -531,6 +531,14 @@
       "bytes": 248846
     },
     {
+      "path": "assets/mobile-loading-v1/anago-struggle-v1/body.webp",
+      "bytes": 722186
+    },
+    {
+      "path": "assets/mobile-loading-v1/anago-struggle-v1/effect.webp",
+      "bytes": 69472
+    },
+    {
       "path": "assets/mobile-loading-v1/bora-struggle-v1/body.webp",
       "bytes": 545730
     },
@@ -609,6 +617,14 @@
     {
       "path": "assets/mobile-loading-v1/madai-struggle-v1/spray-02.webp",
       "bytes": 404640
+    },
+    {
+      "path": "assets/mobile-loading-v1/managatsuo-struggle-v1/body.webp",
+      "bytes": 651448
+    },
+    {
+      "path": "assets/mobile-loading-v1/managatsuo-struggle-v1/effect.webp",
+      "bytes": 409208
     },
     {
       "path": "assets/mobile-loading-v1/mobile-atlases-v1/flow-catch/catch-00.webp",
@@ -713,6 +729,14 @@
     {
       "path": "assets/mobile-loading-v1/shirogisu-struggle-v1/effect.webp",
       "bytes": 210532
+    },
+    {
+      "path": "assets/mobile-loading-v1/shiroguchi-struggle-v1/body.webp",
+      "bytes": 815400
+    },
+    {
+      "path": "assets/mobile-loading-v1/shiroguchi-struggle-v1/effect.webp",
+      "bytes": 255294
     },
     {
       "path": "assets/mobile-loading-v1/squid-struggle-v1/body.webp",
