@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T15:44:43.494Z",
-  "bytes": 63117133,
+  "generatedAt": "2026-10-30T16:07:06.392Z",
+  "bytes": 65884221,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -67,6 +67,10 @@
       "bytes": 322856
     },
     {
+      "path": "assets/audio-v6/iwashi-flip.wav",
+      "bytes": 57408
+    },
+    {
       "path": "assets/audio-v6/octopus-ink.wav",
       "bytes": 100626
     },
@@ -77,6 +81,10 @@
     {
       "path": "assets/audio-v6/puffer-pun.wav",
       "bytes": 136788
+    },
+    {
+      "path": "assets/audio-v6/saba-splash.wav",
+      "bytes": 105918
     },
     {
       "path": "assets/bobber.png",
@@ -983,6 +991,30 @@
       "bytes": 251136
     },
     {
+      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-01.webp",
+      "bytes": 220410
+    },
+    {
+      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-02.webp",
+      "bytes": 250914
+    },
+    {
+      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-03.webp",
+      "bytes": 179254
+    },
+    {
+      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-01.webp",
+      "bytes": 159636
+    },
+    {
+      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-02.webp",
+      "bytes": 190040
+    },
+    {
+      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-03.webp",
+      "bytes": 165430
+    },
+    {
       "path": "assets/mobile-loading-v1/madai-struggle-v1/body-01.webp",
       "bytes": 363200
     },
@@ -1101,6 +1133,22 @@
     {
       "path": "assets/mobile-loading-v1/puffer-struggle-v1/effect-03.webp",
       "bytes": 97790
+    },
+    {
+      "path": "assets/mobile-loading-v1/saba-struggle-v1/body-01.webp",
+      "bytes": 232490
+    },
+    {
+      "path": "assets/mobile-loading-v1/saba-struggle-v1/body-02.webp",
+      "bytes": 248110
+    },
+    {
+      "path": "assets/mobile-loading-v1/saba-struggle-v1/effect-01.webp",
+      "bytes": 378472
+    },
+    {
+      "path": "assets/mobile-loading-v1/saba-struggle-v1/effect-02.webp",
+      "bytes": 579006
     },
     {
       "path": "assets/mobile-loading-v1/summer-sun-video-v1/end.webp",
