@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T17:20:38.356Z",
-  "bytes": 70513749,
+  "generatedAt": "2026-10-30T17:31:16.840Z",
+  "bytes": 70314349,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -80,11 +80,11 @@
     },
     {
       "path": "assets/audio-v6/puffer-puku.wav",
-      "bytes": 112092
+      "bytes": 88278
     },
     {
       "path": "assets/audio-v6/puffer-pun.wav",
-      "bytes": 136788
+      "bytes": 132378
     },
     {
       "path": "assets/audio-v6/saba-splash.wav",
@@ -1112,11 +1112,11 @@
     },
     {
       "path": "assets/mobile-loading-v1/puffer-struggle-v1/body.webp",
-      "bytes": 1853692
+      "bytes": 1748798
     },
     {
       "path": "assets/mobile-loading-v1/puffer-struggle-v1/effect.webp",
-      "bytes": 181380
+      "bytes": 115098
     },
     {
       "path": "assets/mobile-loading-v1/saba-struggle-v1/body.webp",
