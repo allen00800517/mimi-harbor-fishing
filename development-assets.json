@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T11:03:03.737Z",
-  "bytes": 55995267,
+  "generatedAt": "2026-10-30T12:46:21.489Z",
+  "bytes": 56406159,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -1145,6 +1145,14 @@
     {
       "path": "assets/reef-v1/shore.webp",
       "bytes": 218744
+    },
+    {
+      "path": "assets/report-panorama-v1/harbor-estuary.webp",
+      "bytes": 199044
+    },
+    {
+      "path": "assets/report-panorama-v1/harbor-sand.webp",
+      "bytes": 211848
     },
     {
       "path": "assets/shop-scenes-v1/1A.webp",
