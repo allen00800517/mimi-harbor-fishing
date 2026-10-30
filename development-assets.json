@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T19:14:01.997Z",
-  "bytes": 74471815,
+  "generatedAt": "2026-10-30T19:46:09.317Z",
+  "bytes": 78147677,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 1035994
+      "bytes": 1281234
     },
     {
       "path": "assets/bobber.png",
@@ -531,6 +531,14 @@
       "bytes": 248846
     },
     {
+      "path": "assets/mobile-loading-v1/bora-struggle-v1/body.webp",
+      "bytes": 545730
+    },
+    {
+      "path": "assets/mobile-loading-v1/bora-struggle-v1/effect.webp",
+      "bytes": 543526
+    },
+    {
       "path": "assets/mobile-loading-v1/breach-sea.webp",
       "bytes": 231296
     },
@@ -545,6 +553,14 @@
     {
       "path": "assets/mobile-loading-v1/chef-cast-crisp-v1/cast-02.webp",
       "bytes": 503318
+    },
+    {
+      "path": "assets/mobile-loading-v1/dorome-struggle-v1/body.webp",
+      "bytes": 790276
+    },
+    {
+      "path": "assets/mobile-loading-v1/dorome-struggle-v1/effect.webp",
+      "bytes": 81660
     },
     {
       "path": "assets/mobile-loading-v1/flounder-struggle-v1/body.webp",
@@ -691,6 +707,14 @@
       "bytes": 362210
     },
     {
+      "path": "assets/mobile-loading-v1/shirogisu-struggle-v1/body.webp",
+      "bytes": 307022
+    },
+    {
+      "path": "assets/mobile-loading-v1/shirogisu-struggle-v1/effect.webp",
+      "bytes": 210532
+    },
+    {
       "path": "assets/mobile-loading-v1/squid-struggle-v1/body.webp",
       "bytes": 1183414
     },
@@ -721,6 +745,14 @@
     {
       "path": "assets/mobile-loading-v1/ui-notebook.webp",
       "bytes": 11348
+    },
+    {
+      "path": "assets/mobile-loading-v1/umitanago-struggle-v1/body.webp",
+      "bytes": 780322
+    },
+    {
+      "path": "assets/mobile-loading-v1/umitanago-struggle-v1/effect.webp",
+      "bytes": 171554
     },
     {
       "path": "assets/mobile-loading-v1/unagi-struggle-v1/body.webp",
