@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T16:20:32.865Z",
-  "bytes": 67467905,
+  "generatedAt": "2026-10-30T16:49:34.749Z",
+  "bytes": 69602907,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -67,6 +67,10 @@
       "bytes": 322856
     },
     {
+      "path": "assets/audio-v6/flounder-flap.wav",
+      "bytes": 97478
+    },
+    {
       "path": "assets/audio-v6/iwashi-flip.wav",
       "bytes": 70638
     },
@@ -89,6 +93,10 @@
     {
       "path": "assets/audio-v6/squid-jet.wav",
       "bytes": 70638
+    },
+    {
+      "path": "assets/audio-v6/unagi-writhe.wav",
+      "bytes": 71412
     },
     {
       "path": "assets/bobber.png",
@@ -987,6 +995,14 @@
       "bytes": 503318
     },
     {
+      "path": "assets/mobile-loading-v1/flounder-struggle-v1/body.webp",
+      "bytes": 657300
+    },
+    {
+      "path": "assets/mobile-loading-v1/flounder-struggle-v1/effect.webp",
+      "bytes": 316186
+    },
+    {
       "path": "assets/mobile-loading-v1/harbor-background-solo-v2.webp",
       "bytes": 243464
     },
@@ -995,28 +1011,12 @@
       "bytes": 251136
     },
     {
-      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-01.webp",
-      "bytes": 235498
+      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body.webp",
+      "bytes": 619032
     },
     {
-      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-02.webp",
-      "bytes": 259962
-    },
-    {
-      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-03.webp",
-      "bytes": 121834
-    },
-    {
-      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-01.webp",
-      "bytes": 26952
-    },
-    {
-      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-02.webp",
-      "bytes": 58552
-    },
-    {
-      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-03.webp",
-      "bytes": 61238
+      "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect.webp",
+      "bytes": 141662
     },
     {
       "path": "assets/mobile-loading-v1/madai-struggle-v1/body-01.webp",
@@ -1099,84 +1099,36 @@
       "bytes": 251510
     },
     {
-      "path": "assets/mobile-loading-v1/octopus-struggle-v1/body-01.webp",
-      "bytes": 702864
+      "path": "assets/mobile-loading-v1/octopus-struggle-v1/body.webp",
+      "bytes": 2205392
     },
     {
-      "path": "assets/mobile-loading-v1/octopus-struggle-v1/body-02.webp",
-      "bytes": 979600
+      "path": "assets/mobile-loading-v1/octopus-struggle-v1/effect.webp",
+      "bytes": 1753758
     },
     {
-      "path": "assets/mobile-loading-v1/octopus-struggle-v1/body-03.webp",
-      "bytes": 519482
+      "path": "assets/mobile-loading-v1/puffer-struggle-v1/body.webp",
+      "bytes": 1853692
     },
     {
-      "path": "assets/mobile-loading-v1/octopus-struggle-v1/effect-02.webp",
-      "bytes": 1041678
+      "path": "assets/mobile-loading-v1/puffer-struggle-v1/effect.webp",
+      "bytes": 181380
     },
     {
-      "path": "assets/mobile-loading-v1/octopus-struggle-v1/effect-03.webp",
-      "bytes": 637296
+      "path": "assets/mobile-loading-v1/saba-struggle-v1/body.webp",
+      "bytes": 478366
     },
     {
-      "path": "assets/mobile-loading-v1/puffer-struggle-v1/body-01.webp",
-      "bytes": 573512
+      "path": "assets/mobile-loading-v1/saba-struggle-v1/effect.webp",
+      "bytes": 935682
     },
     {
-      "path": "assets/mobile-loading-v1/puffer-struggle-v1/body-02.webp",
-      "bytes": 782470
+      "path": "assets/mobile-loading-v1/squid-struggle-v1/body.webp",
+      "bytes": 1183414
     },
     {
-      "path": "assets/mobile-loading-v1/puffer-struggle-v1/body-03.webp",
-      "bytes": 499528
-    },
-    {
-      "path": "assets/mobile-loading-v1/puffer-struggle-v1/effect-02.webp",
-      "bytes": 120928
-    },
-    {
-      "path": "assets/mobile-loading-v1/puffer-struggle-v1/effect-03.webp",
-      "bytes": 97790
-    },
-    {
-      "path": "assets/mobile-loading-v1/saba-struggle-v1/body-01.webp",
-      "bytes": 232490
-    },
-    {
-      "path": "assets/mobile-loading-v1/saba-struggle-v1/body-02.webp",
-      "bytes": 248110
-    },
-    {
-      "path": "assets/mobile-loading-v1/saba-struggle-v1/effect-01.webp",
-      "bytes": 378472
-    },
-    {
-      "path": "assets/mobile-loading-v1/saba-struggle-v1/effect-02.webp",
-      "bytes": 579006
-    },
-    {
-      "path": "assets/mobile-loading-v1/squid-struggle-v1/body-01.webp",
-      "bytes": 471192
-    },
-    {
-      "path": "assets/mobile-loading-v1/squid-struggle-v1/body-02.webp",
-      "bytes": 495472
-    },
-    {
-      "path": "assets/mobile-loading-v1/squid-struggle-v1/body-03.webp",
-      "bytes": 209710
-    },
-    {
-      "path": "assets/mobile-loading-v1/squid-struggle-v1/effect-01.webp",
-      "bytes": 126590
-    },
-    {
-      "path": "assets/mobile-loading-v1/squid-struggle-v1/effect-02.webp",
-      "bytes": 510088
-    },
-    {
-      "path": "assets/mobile-loading-v1/squid-struggle-v1/effect-03.webp",
-      "bytes": 88412
+      "path": "assets/mobile-loading-v1/squid-struggle-v1/effect.webp",
+      "bytes": 707034
     },
     {
       "path": "assets/mobile-loading-v1/summer-sun-video-v1/end.webp",
@@ -1193,6 +1145,14 @@
     {
       "path": "assets/mobile-loading-v1/ui-notebook.webp",
       "bytes": 11348
+    },
+    {
+      "path": "assets/mobile-loading-v1/unagi-struggle-v1/body.webp",
+      "bytes": 772514
+    },
+    {
+      "path": "assets/mobile-loading-v1/unagi-struggle-v1/effect.webp",
+      "bytes": 219426
     },
     {
       "path": "assets/music-v1/catch-normal.mp3",
