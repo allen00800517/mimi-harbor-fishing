@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T17:31:16.840Z",
-  "bytes": 70314349,
+  "generatedAt": "2026-10-30T18:09:23.905Z",
+  "bytes": 74721647,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -192,7 +192,7 @@
     },
     {
       "path": "assets/fish-v1/ainame.webp",
-      "bytes": 30102
+      "bytes": 125530
     },
     {
       "path": "assets/fish-v1/aji-still-v2.webp",
@@ -200,43 +200,43 @@
     },
     {
       "path": "assets/fish-v1/albacore-polished-v1.webp",
-      "bytes": 24292
+      "bytes": 109654
     },
     {
       "path": "assets/fish-v1/anago.webp",
-      "bytes": 18554
+      "bytes": 76270
     },
     {
       "path": "assets/fish-v1/anglerfish.webp",
-      "bytes": 28460
+      "bytes": 112976
     },
     {
       "path": "assets/fish-v1/aoriika.webp",
-      "bytes": 38534
+      "bytes": 164254
     },
     {
       "path": "assets/fish-v1/batfish-light-v1.webp",
-      "bytes": 35696
+      "bytes": 144750
     },
     {
       "path": "assets/fish-v1/blueshark-light-v1.webp",
-      "bytes": 19168
+      "bytes": 69132
     },
     {
       "path": "assets/fish-v1/bluetang-light-v1.webp",
-      "bytes": 40974
+      "bytes": 163550
     },
     {
       "path": "assets/fish-v1/bora.webp",
-      "bytes": 22120
+      "bytes": 92304
     },
     {
       "path": "assets/fish-v1/buri.webp",
-      "bytes": 42512
+      "bytes": 186314
     },
     {
       "path": "assets/fish-v1/butterflyfish-light-v1.webp",
-      "bytes": 39536
+      "bytes": 157482
     },
     {
       "path": "assets/fish-v1/catalogue-light-v1/detail/batfish.webp",
@@ -728,23 +728,23 @@
     },
     {
       "path": "assets/fish-v1/chimaera.webp",
-      "bytes": 18874
+      "bytes": 78608
     },
     {
       "path": "assets/fish-v1/clownfish-light-v1.webp",
-      "bytes": 38918
+      "bytes": 146994
     },
     {
       "path": "assets/fish-v1/cobia.webp",
-      "bytes": 20934
+      "bytes": 90242
     },
     {
       "path": "assets/fish-v1/damselfish.webp",
-      "bytes": 34294
+      "bytes": 155552
     },
     {
       "path": "assets/fish-v1/dorome.webp",
-      "bytes": 29110
+      "bytes": 123970
     },
     {
       "path": "assets/fish-v1/flounder.webp",
@@ -752,7 +752,7 @@
     },
     {
       "path": "assets/fish-v1/goatfish.webp",
-      "bytes": 21062
+      "bytes": 89320
     },
     {
       "path": "assets/fish-v1/hammerhead.webp",
@@ -760,7 +760,7 @@
     },
     {
       "path": "assets/fish-v1/isaki.webp",
-      "bytes": 29806
+      "bytes": 117084
     },
     {
       "path": "assets/fish-v1/ishidai.webp",
@@ -768,11 +768,11 @@
     },
     {
       "path": "assets/fish-v1/iwashi.webp",
-      "bytes": 45660
+      "bytes": 199048
     },
     {
       "path": "assets/fish-v1/kanpachi.webp",
-      "bytes": 23972
+      "bytes": 99740
     },
     {
       "path": "assets/fish-v1/kasago.webp",
@@ -780,7 +780,7 @@
     },
     {
       "path": "assets/fish-v1/katsuo.webp",
-      "bytes": 39552
+      "bytes": 225272
     },
     {
       "path": "assets/fish-v1/kawahagi.webp",
@@ -788,23 +788,23 @@
     },
     {
       "path": "assets/fish-v1/kijihata-light-v1.webp",
-      "bytes": 55526
+      "bytes": 189628
     },
     {
       "path": "assets/fish-v1/kinmedai-light-v1.webp",
-      "bytes": 24786
+      "bytes": 104434
     },
     {
       "path": "assets/fish-v1/kouika.webp",
-      "bytes": 45256
+      "bytes": 199414
     },
     {
       "path": "assets/fish-v1/kurodai.webp",
-      "bytes": 46918
+      "bytes": 188416
     },
     {
       "path": "assets/fish-v1/lionfish.webp",
-      "bytes": 55352
+      "bytes": 228460
     },
     {
       "path": "assets/fish-v1/madai.webp",
@@ -816,11 +816,11 @@
     },
     {
       "path": "assets/fish-v1/managatsuo.webp",
-      "bytes": 25240
+      "bytes": 108748
     },
     {
       "path": "assets/fish-v1/moorish-light-v1.webp",
-      "bytes": 41748
+      "bytes": 162546
     },
     {
       "path": "assets/fish-v1/oarfish.webp",
@@ -836,7 +836,7 @@
     },
     {
       "path": "assets/fish-v1/rabbitfish.webp",
-      "bytes": 31032
+      "bytes": 124608
     },
     {
       "path": "assets/fish-v1/ray.webp",
@@ -848,35 +848,35 @@
     },
     {
       "path": "assets/fish-v1/sailfish-polished-v1.webp",
-      "bytes": 25344
+      "bytes": 108618
     },
     {
       "path": "assets/fish-v1/sajori.webp",
-      "bytes": 13274
+      "bytes": 53748
     },
     {
       "path": "assets/fish-v1/sanma.webp",
-      "bytes": 15202
+      "bytes": 62440
     },
     {
       "path": "assets/fish-v1/sawara.webp",
-      "bytes": 23472
+      "bytes": 85618
     },
     {
       "path": "assets/fish-v1/shimaaji.webp",
-      "bytes": 30312
+      "bytes": 131212
     },
     {
       "path": "assets/fish-v1/shirogisu.webp",
-      "bytes": 21542
+      "bytes": 88294
     },
     {
       "path": "assets/fish-v1/shiroguchi.webp",
-      "bytes": 21690
+      "bytes": 92540
     },
     {
       "path": "assets/fish-v1/shiromebaru.webp",
-      "bytes": 32282
+      "bytes": 132720
     },
     {
       "path": "assets/fish-v1/squid.webp",
@@ -884,27 +884,27 @@
     },
     {
       "path": "assets/fish-v1/sunfish-light-v1.webp",
-      "bytes": 30254
+      "bytes": 116168
     },
     {
       "path": "assets/fish-v1/suzuki.webp",
-      "bytes": 34884
+      "bytes": 135652
     },
     {
       "path": "assets/fish-v1/swordfish-polished-v1.webp",
-      "bytes": 19552
+      "bytes": 76590
     },
     {
       "path": "assets/fish-v1/tachiuo.webp",
-      "bytes": 27748
+      "bytes": 110254
     },
     {
       "path": "assets/fish-v1/threadfish.webp",
-      "bytes": 34632
+      "bytes": 152072
     },
     {
       "path": "assets/fish-v1/tobiuo.webp",
-      "bytes": 33460
+      "bytes": 136562
     },
     {
       "path": "assets/fish-v1/tuna.webp",
@@ -912,15 +912,15 @@
     },
     {
       "path": "assets/fish-v1/umitanago.webp",
-      "bytes": 27650
+      "bytes": 115536
     },
     {
       "path": "assets/fish-v1/unagi.webp",
-      "bytes": 15154
+      "bytes": 71218
     },
     {
       "path": "assets/fish-v1/utsubo-light-v1.webp",
-      "bytes": 30048
+      "bytes": 108244
     },
     {
       "path": "assets/heroine-poses-v2.png",
