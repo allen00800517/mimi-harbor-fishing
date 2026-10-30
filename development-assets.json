@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T16:49:34.749Z",
-  "bytes": 69602907,
+  "generatedAt": "2026-10-30T17:20:38.356Z",
+  "bytes": 70513749,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -89,6 +89,10 @@
     {
       "path": "assets/audio-v6/saba-splash.wav",
       "bytes": 105918
+    },
+    {
+      "path": "assets/audio-v6/sajori-snap.wav",
+      "bytes": 95636
     },
     {
       "path": "assets/audio-v6/squid-jet.wav",
@@ -1121,6 +1125,14 @@
     {
       "path": "assets/mobile-loading-v1/saba-struggle-v1/effect.webp",
       "bytes": 935682
+    },
+    {
+      "path": "assets/mobile-loading-v1/sajori-struggle-v1/body.webp",
+      "bytes": 452996
+    },
+    {
+      "path": "assets/mobile-loading-v1/sajori-struggle-v1/effect.webp",
+      "bytes": 362210
     },
     {
       "path": "assets/mobile-loading-v1/squid-struggle-v1/body.webp",
