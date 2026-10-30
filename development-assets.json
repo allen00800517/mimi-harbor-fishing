@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T16:07:06.392Z",
-  "bytes": 65884221,
+  "generatedAt": "2026-10-30T16:20:32.865Z",
+  "bytes": 67467905,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v6/iwashi-flip.wav",
-      "bytes": 57408
+      "bytes": 70638
     },
     {
       "path": "assets/audio-v6/octopus-ink.wav",
@@ -85,6 +85,10 @@
     {
       "path": "assets/audio-v6/saba-splash.wav",
       "bytes": 105918
+    },
+    {
+      "path": "assets/audio-v6/squid-jet.wav",
+      "bytes": 70638
     },
     {
       "path": "assets/bobber.png",
@@ -992,27 +996,27 @@
     },
     {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-01.webp",
-      "bytes": 220410
+      "bytes": 235498
     },
     {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-02.webp",
-      "bytes": 250914
+      "bytes": 259962
     },
     {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body-03.webp",
-      "bytes": 179254
+      "bytes": 121834
     },
     {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-01.webp",
-      "bytes": 159636
+      "bytes": 26952
     },
     {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-02.webp",
-      "bytes": 190040
+      "bytes": 58552
     },
     {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect-03.webp",
-      "bytes": 165430
+      "bytes": 61238
     },
     {
       "path": "assets/mobile-loading-v1/madai-struggle-v1/body-01.webp",
@@ -1149,6 +1153,30 @@
     {
       "path": "assets/mobile-loading-v1/saba-struggle-v1/effect-02.webp",
       "bytes": 579006
+    },
+    {
+      "path": "assets/mobile-loading-v1/squid-struggle-v1/body-01.webp",
+      "bytes": 471192
+    },
+    {
+      "path": "assets/mobile-loading-v1/squid-struggle-v1/body-02.webp",
+      "bytes": 495472
+    },
+    {
+      "path": "assets/mobile-loading-v1/squid-struggle-v1/body-03.webp",
+      "bytes": 209710
+    },
+    {
+      "path": "assets/mobile-loading-v1/squid-struggle-v1/effect-01.webp",
+      "bytes": 126590
+    },
+    {
+      "path": "assets/mobile-loading-v1/squid-struggle-v1/effect-02.webp",
+      "bytes": 510088
+    },
+    {
+      "path": "assets/mobile-loading-v1/squid-struggle-v1/effect-03.webp",
+      "bytes": 88412
     },
     {
       "path": "assets/mobile-loading-v1/summer-sun-video-v1/end.webp",
