@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T20:37:27.460Z",
-  "bytes": 83975633,
+  "generatedAt": "2026-10-30T21:30:15.263Z",
+  "bytes": 86501451,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 1675012
+      "bytes": 1761064
     },
     {
       "path": "assets/bobber.png",
@@ -579,6 +579,14 @@
       "bytes": 1216568
     },
     {
+      "path": "assets/mobile-loading-v1/goatfish-struggle-v1/body.webp",
+      "bytes": 547606
+    },
+    {
+      "path": "assets/mobile-loading-v1/goatfish-struggle-v1/effect.webp",
+      "bytes": 1296690
+    },
+    {
       "path": "assets/mobile-loading-v1/harbor-background-solo-v2.webp",
       "bytes": 243464
     },
@@ -772,11 +780,11 @@
     },
     {
       "path": "assets/mobile-loading-v1/umitanago-struggle-v1/body.webp",
-      "bytes": 780322
+      "bytes": 843112
     },
     {
       "path": "assets/mobile-loading-v1/umitanago-struggle-v1/effect.webp",
-      "bytes": 171554
+      "bytes": 704234
     },
     {
       "path": "assets/mobile-loading-v1/unagi-struggle-v1/body.webp",
