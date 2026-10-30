@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T12:46:21.489Z",
-  "bytes": 56406159,
+  "generatedAt": "2026-10-30T13:59:18.559Z",
+  "bytes": 62710813,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -65,6 +65,18 @@
     {
       "path": "assets/audio-v5/underwater.wav",
       "bytes": 322856
+    },
+    {
+      "path": "assets/audio-v6/octopus-ink.wav",
+      "bytes": 100626
+    },
+    {
+      "path": "assets/audio-v6/puffer-puku.wav",
+      "bytes": 112092
+    },
+    {
+      "path": "assets/audio-v6/puffer-pun.wav",
+      "bytes": 136788
     },
     {
       "path": "assets/bobber.png",
@@ -1049,6 +1061,46 @@
     {
       "path": "assets/mobile-loading-v1/ocean-panorama.webp",
       "bytes": 251510
+    },
+    {
+      "path": "assets/mobile-loading-v1/octopus-struggle-v1/body-01.webp",
+      "bytes": 702864
+    },
+    {
+      "path": "assets/mobile-loading-v1/octopus-struggle-v1/body-02.webp",
+      "bytes": 979600
+    },
+    {
+      "path": "assets/mobile-loading-v1/octopus-struggle-v1/body-03.webp",
+      "bytes": 519482
+    },
+    {
+      "path": "assets/mobile-loading-v1/octopus-struggle-v1/effect-02.webp",
+      "bytes": 1041678
+    },
+    {
+      "path": "assets/mobile-loading-v1/octopus-struggle-v1/effect-03.webp",
+      "bytes": 637296
+    },
+    {
+      "path": "assets/mobile-loading-v1/puffer-struggle-v1/body-01.webp",
+      "bytes": 573512
+    },
+    {
+      "path": "assets/mobile-loading-v1/puffer-struggle-v1/body-02.webp",
+      "bytes": 782470
+    },
+    {
+      "path": "assets/mobile-loading-v1/puffer-struggle-v1/body-03.webp",
+      "bytes": 499528
+    },
+    {
+      "path": "assets/mobile-loading-v1/puffer-struggle-v1/effect-02.webp",
+      "bytes": 120928
+    },
+    {
+      "path": "assets/mobile-loading-v1/puffer-struggle-v1/effect-03.webp",
+      "bytes": 97790
     },
     {
       "path": "assets/mobile-loading-v1/summer-sun-video-v1/end.webp",
