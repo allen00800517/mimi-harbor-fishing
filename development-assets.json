@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T18:09:23.905Z",
-  "bytes": 74721647,
+  "generatedAt": "2026-10-30T18:45:36.369Z",
+  "bytes": 71813715,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -67,40 +67,8 @@
       "bytes": 322856
     },
     {
-      "path": "assets/audio-v6/flounder-flap.wav",
-      "bytes": 97478
-    },
-    {
-      "path": "assets/audio-v6/iwashi-flip.wav",
-      "bytes": 70638
-    },
-    {
-      "path": "assets/audio-v6/octopus-ink.wav",
-      "bytes": 100626
-    },
-    {
-      "path": "assets/audio-v6/puffer-puku.wav",
-      "bytes": 88278
-    },
-    {
-      "path": "assets/audio-v6/puffer-pun.wav",
-      "bytes": 132378
-    },
-    {
-      "path": "assets/audio-v6/saba-splash.wav",
-      "bytes": 105918
-    },
-    {
-      "path": "assets/audio-v6/sajori-snap.wav",
-      "bytes": 95636
-    },
-    {
-      "path": "assets/audio-v6/squid-jet.wav",
-      "bytes": 70638
-    },
-    {
-      "path": "assets/audio-v6/unagi-writhe.wav",
-      "bytes": 71412
+      "path": "assets/audio-v7/actions.wav",
+      "bytes": 872034
     },
     {
       "path": "assets/bobber.png",
@@ -239,492 +207,72 @@
       "bytes": 157482
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/batfish.webp",
-      "bytes": 176394
+      "path": "assets/fish-v1/catalogue-v2/detail-00.webp",
+      "bytes": 684058
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/blueshark.webp",
-      "bytes": 87774
+      "path": "assets/fish-v1/catalogue-v2/detail-01.webp",
+      "bytes": 680280
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/bluetang.webp",
-      "bytes": 171008
+      "path": "assets/fish-v1/catalogue-v2/detail-02.webp",
+      "bytes": 553718
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/butterflyfish.webp",
-      "bytes": 181654
+      "path": "assets/fish-v1/catalogue-v2/detail-03.webp",
+      "bytes": 601048
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/clownfish.webp",
-      "bytes": 169406
+      "path": "assets/fish-v1/catalogue-v2/detail-04.webp",
+      "bytes": 470088
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/kijihata.webp",
-      "bytes": 183984
+      "path": "assets/fish-v1/catalogue-v2/detail-05.webp",
+      "bytes": 367196
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/kinmedai.webp",
-      "bytes": 175584
+      "path": "assets/fish-v1/catalogue-v2/detail-06.webp",
+      "bytes": 399414
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/moorish.webp",
-      "bytes": 175568
+      "path": "assets/fish-v1/catalogue-v2/detail-07.webp",
+      "bytes": 379078
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/sunfish.webp",
-      "bytes": 187590
+      "path": "assets/fish-v1/catalogue-v2/detail-08.webp",
+      "bytes": 588996
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/detail/utsubo.webp",
-      "bytes": 119586
+      "path": "assets/fish-v1/catalogue-v2/detail-09.webp",
+      "bytes": 461520
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/batfish.webp",
-      "bytes": 13838
+      "path": "assets/fish-v1/catalogue-v2/detail-10.webp",
+      "bytes": 290290
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/blueshark.webp",
-      "bytes": 8504
+      "path": "assets/fish-v1/catalogue-v2/detail-11.webp",
+      "bytes": 414378
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/bluetang.webp",
-      "bytes": 13260
+      "path": "assets/fish-v1/catalogue-v2/detail-12.webp",
+      "bytes": 499618
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/butterflyfish.webp",
-      "bytes": 14596
+      "path": "assets/fish-v1/catalogue-v2/detail-13.webp",
+      "bytes": 302454
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/clownfish.webp",
-      "bytes": 13554
+      "path": "assets/fish-v1/catalogue-v2/detail-14.webp",
+      "bytes": 364304
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/kijihata.webp",
-      "bytes": 15732
+      "path": "assets/fish-v1/catalogue-v2/detail-15.webp",
+      "bytes": 50706
     },
     {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/kinmedai.webp",
-      "bytes": 13930
-    },
-    {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/moorish.webp",
-      "bytes": 14344
-    },
-    {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/sunfish.webp",
-      "bytes": 14104
-    },
-    {
-      "path": "assets/fish-v1/catalogue-light-v1/thumbs/utsubo.webp",
-      "bytes": 10340
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/ainame.webp",
-      "bytes": 160932
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/aji.webp",
-      "bytes": 185464
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/albacore.webp",
-      "bytes": 145110
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/anago.webp",
-      "bytes": 97758
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/anglerfish.webp",
-      "bytes": 143948
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/aoriika.webp",
-      "bytes": 193834
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/bora.webp",
-      "bytes": 115538
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/buri.webp",
-      "bytes": 101824
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/chimaera.webp",
-      "bytes": 98600
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/cobia.webp",
-      "bytes": 102786
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/damselfish.webp",
-      "bytes": 195074
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/dorome.webp",
-      "bytes": 154858
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/flounder.webp",
-      "bytes": 270192
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/goatfish.webp",
-      "bytes": 109136
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/hammerhead.webp",
-      "bytes": 151564
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/isaki.webp",
-      "bytes": 154164
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/ishidai.webp",
-      "bytes": 219254
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/iwashi.webp",
-      "bytes": 109474
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/kanpachi.webp",
-      "bytes": 130860
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/kasago.webp",
-      "bytes": 237376
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/katsuo.webp",
-      "bytes": 166414
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/kawahagi.webp",
-      "bytes": 242534
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/kouika.webp",
-      "bytes": 234270
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/kurodai.webp",
-      "bytes": 190820
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/lionfish.webp",
-      "bytes": 282512
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/madai.webp",
-      "bytes": 242592
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/mahi.webp",
-      "bytes": 196742
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/managatsuo.webp",
-      "bytes": 137494
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/oarfish.webp",
-      "bytes": 189694
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/octopus.webp",
-      "bytes": 359098
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/puffer.webp",
-      "bytes": 255924
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/rabbitfish.webp",
-      "bytes": 159538
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/ray.webp",
-      "bytes": 206180
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/saba.webp",
-      "bytes": 154722
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/sailfish.webp",
-      "bytes": 159632
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/sajori.webp",
-      "bytes": 64994
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/sanma.webp",
-      "bytes": 76448
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/sawara.webp",
-      "bytes": 105308
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/shimaaji.webp",
-      "bytes": 156230
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/shirogisu.webp",
-      "bytes": 110378
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/shiroguchi.webp",
-      "bytes": 119320
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/shiromebaru.webp",
-      "bytes": 179210
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/squid.webp",
-      "bytes": 220538
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/suzuki.webp",
-      "bytes": 148784
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/swordfish.webp",
-      "bytes": 101554
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/tachiuo.webp",
-      "bytes": 123028
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/threadfish.webp",
-      "bytes": 180656
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/tobiuo.webp",
-      "bytes": 153136
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/tuna.webp",
-      "bytes": 178752
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/umitanago.webp",
-      "bytes": 147740
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/detail/unagi.webp",
-      "bytes": 49618
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/ainame.webp",
-      "bytes": 13632
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/aji.webp",
-      "bytes": 16146
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/albacore.webp",
-      "bytes": 11790
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/anago.webp",
-      "bytes": 9120
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/anglerfish.webp",
-      "bytes": 13684
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/aoriika.webp",
-      "bytes": 17296
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/bora.webp",
-      "bytes": 10186
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/buri.webp",
-      "bytes": 11640
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/chimaera.webp",
-      "bytes": 9628
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/cobia.webp",
-      "bytes": 9110
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/damselfish.webp",
-      "bytes": 15188
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/dorome.webp",
-      "bytes": 12798
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/flounder.webp",
-      "bytes": 18862
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/goatfish.webp",
-      "bytes": 13278
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/hammerhead.webp",
-      "bytes": 13106
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/isaki.webp",
-      "bytes": 12914
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/ishidai.webp",
-      "bytes": 16406
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/iwashi.webp",
-      "bytes": 12040
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/kanpachi.webp",
-      "bytes": 11644
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/kasago.webp",
-      "bytes": 19146
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/katsuo.webp",
-      "bytes": 12974
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/kawahagi.webp",
-      "bytes": 17768
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/kouika.webp",
-      "bytes": 19668
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/kurodai.webp",
-      "bytes": 15270
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/lionfish.webp",
-      "bytes": 26072
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/madai.webp",
-      "bytes": 17806
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/mahi.webp",
-      "bytes": 15100
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/managatsuo.webp",
-      "bytes": 13926
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/oarfish.webp",
-      "bytes": 17760
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/octopus.webp",
-      "bytes": 28276
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/puffer.webp",
-      "bytes": 18494
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/rabbitfish.webp",
-      "bytes": 14204
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/ray.webp",
-      "bytes": 15754
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/saba.webp",
-      "bytes": 12640
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/sailfish.webp",
-      "bytes": 13602
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/sajori.webp",
-      "bytes": 7830
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/sanma.webp",
-      "bytes": 8442
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/sawara.webp",
-      "bytes": 10638
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/shimaaji.webp",
-      "bytes": 13278
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/shirogisu.webp",
-      "bytes": 10530
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/shiroguchi.webp",
-      "bytes": 11984
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/shiromebaru.webp",
-      "bytes": 14760
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/squid.webp",
-      "bytes": 17450
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/suzuki.webp",
-      "bytes": 12924
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/swordfish.webp",
-      "bytes": 9418
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/tachiuo.webp",
-      "bytes": 11070
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/threadfish.webp",
-      "bytes": 22334
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/tobiuo.webp",
-      "bytes": 13992
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/tuna.webp",
-      "bytes": 14434
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/umitanago.webp",
-      "bytes": 14176
-    },
-    {
-      "path": "assets/fish-v1/catalogue-polished-v1/thumbs/unagi.webp",
-      "bytes": 7112
+      "path": "assets/fish-v1/catalogue-v2/thumbs.webp",
+      "bytes": 805546
     },
     {
       "path": "assets/fish-v1/chimaera.webp",

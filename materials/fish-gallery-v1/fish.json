@@ -21,8 +21,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/aji.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/aji.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 0,
+      "y": 0,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-00.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "saba",
@@ -51,8 +61,18 @@
         "frequency": "常見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/saba.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/saba.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 256,
+      "y": 0,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-00.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "octopus",
@@ -76,8 +96,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/octopus.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/octopus.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 512,
+      "y": 0,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-00.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "madai",
@@ -101,8 +131,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/madai.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/madai.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 768,
+      "y": 0,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-00.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "flounder",
@@ -126,8 +166,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/flounder.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/flounder.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-01.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "squid",
@@ -156,8 +206,18 @@
         "frequency": "常見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/squid.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/squid.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1280,
+      "y": 0,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-01.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "puffer",
@@ -181,8 +241,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/puffer.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/puffer.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1536,
+      "y": 0,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-01.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "tuna",
@@ -201,8 +271,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/tuna.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/tuna.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1792,
+      "y": 0,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-01.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "mahi",
@@ -221,8 +301,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/mahi.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/mahi.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 0,
+      "y": 256,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-02.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "ray",
@@ -241,8 +331,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/ray.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/ray.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 256,
+      "y": 256,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-02.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "hammerhead",
@@ -261,8 +361,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/hammerhead.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/hammerhead.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 512,
+      "y": 256,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-02.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "oarfish",
@@ -281,8 +391,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/oarfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/oarfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 768,
+      "y": 256,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-02.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "kasago",
@@ -301,8 +421,18 @@
         "frequency": "常見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kasago.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kasago.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1024,
+      "y": 256,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-03.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "kawahagi",
@@ -321,8 +451,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kawahagi.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kawahagi.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1280,
+      "y": 256,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-03.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "ishidai",
@@ -341,8 +481,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/ishidai.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/ishidai.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1536,
+      "y": 256,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-03.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "iwashi",
@@ -361,8 +511,18 @@
         "frequency": "常見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/iwashi.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/iwashi.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1792,
+      "y": 256,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-03.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "katsuo",
@@ -381,8 +541,18 @@
         "frequency": "常見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/katsuo.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/katsuo.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 0,
+      "y": 512,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-04.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "buri",
@@ -401,8 +571,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/buri.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/buri.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 256,
+      "y": 512,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-04.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "kurodai",
@@ -426,8 +606,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kurodai.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kurodai.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 512,
+      "y": 512,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-04.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "kijihata",
@@ -446,8 +636,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/kijihata.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/kijihata.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 768,
+      "y": 512,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-04.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "tachiuo",
@@ -466,8 +666,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/tachiuo.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/tachiuo.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1024,
+      "y": 512,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-05.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "suzuki",
@@ -491,8 +701,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/suzuki.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/suzuki.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1280,
+      "y": 512,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-05.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "isaki",
@@ -511,8 +731,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/isaki.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/isaki.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1536,
+      "y": 512,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-05.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "sawara",
@@ -531,8 +761,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/sawara.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/sawara.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1792,
+      "y": 512,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-05.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "shirogisu",
@@ -551,8 +791,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/shirogisu.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/shirogisu.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 0,
+      "y": 768,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-06.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "dorome",
@@ -576,8 +826,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/dorome.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/dorome.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 256,
+      "y": 768,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-06.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "shiromebaru",
@@ -596,8 +856,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/shiromebaru.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/shiromebaru.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 512,
+      "y": 768,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-06.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "ainame",
@@ -616,8 +886,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/ainame.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/ainame.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 768,
+      "y": 768,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-06.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "kanpachi",
@@ -636,8 +916,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kanpachi.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kanpachi.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1024,
+      "y": 768,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-07.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "shimaaji",
@@ -656,8 +946,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/shimaaji.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/shimaaji.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1280,
+      "y": 768,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-07.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "bora",
@@ -676,8 +976,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/bora.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/bora.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1536,
+      "y": 768,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-07.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "umitanago",
@@ -696,8 +1006,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/umitanago.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/umitanago.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1792,
+      "y": 768,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-07.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 956
+    }
   },
   {
     "id": "utsubo",
@@ -716,8 +1036,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/utsubo.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/utsubo.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-08.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "lionfish",
@@ -736,8 +1066,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/lionfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/lionfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 256,
+      "y": 1024,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-08.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1000
+    }
   },
   {
     "id": "aoriika",
@@ -756,8 +1096,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/aoriika.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/aoriika.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 512,
+      "y": 1024,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-08.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "kouika",
@@ -776,8 +1126,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/kouika.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/kouika.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 768,
+      "y": 1024,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-08.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "tobiuo",
@@ -796,8 +1156,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/tobiuo.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/tobiuo.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-09.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "sailfish",
@@ -816,8 +1186,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/sailfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/sailfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1280,
+      "y": 1024,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-09.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "sunfish",
@@ -836,8 +1216,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/sunfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/sunfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1536,
+      "y": 1024,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-09.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "kinmedai",
@@ -856,8 +1246,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/kinmedai.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/kinmedai.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1792,
+      "y": 1024,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-09.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "sajori",
@@ -876,8 +1276,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/sajori.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/sajori.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 0,
+      "y": 1280,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-10.webp",
+      "x": 0,
+      "y": 0,
+      "size": 950
+    }
   },
   {
     "id": "anago",
@@ -901,8 +1311,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/anago.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/anago.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 256,
+      "y": 1280,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-10.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "managatsuo",
@@ -921,8 +1341,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/managatsuo.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/managatsuo.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 512,
+      "y": 1280,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-10.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 920
+    }
   },
   {
     "id": "shiroguchi",
@@ -941,8 +1371,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/shiroguchi.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/shiroguchi.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 768,
+      "y": 1280,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-10.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 922
+    }
   },
   {
     "id": "goatfish",
@@ -966,8 +1406,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/goatfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/goatfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1024,
+      "y": 1280,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-11.webp",
+      "x": 0,
+      "y": 0,
+      "size": 858
+    }
   },
   {
     "id": "rabbitfish",
@@ -991,8 +1441,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/rabbitfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/rabbitfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1280,
+      "y": 1280,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-11.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "clownfish",
@@ -1011,8 +1471,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/clownfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/clownfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1536,
+      "y": 1280,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-11.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "bluetang",
@@ -1031,8 +1501,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/bluetang.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/bluetang.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1792,
+      "y": 1280,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-11.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "moorish",
@@ -1051,8 +1531,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/moorish.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/moorish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 0,
+      "y": 1536,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-12.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "butterflyfish",
@@ -1071,8 +1561,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/butterflyfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/butterflyfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 256,
+      "y": 1536,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-12.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "damselfish",
@@ -1091,8 +1591,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/damselfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/damselfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 512,
+      "y": 1536,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-12.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "batfish",
@@ -1111,8 +1621,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/batfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/batfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 768,
+      "y": 1536,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-12.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "sanma",
@@ -1131,8 +1651,18 @@
         "frequency": "少見"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/sanma.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/sanma.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1024,
+      "y": 1536,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-13.webp",
+      "x": 0,
+      "y": 0,
+      "size": 968
+    }
   },
   {
     "id": "cobia",
@@ -1151,8 +1681,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/cobia.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/cobia.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1280,
+      "y": 1536,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-13.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "albacore",
@@ -1171,8 +1711,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/albacore.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/albacore.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1536,
+      "y": 1536,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-13.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "swordfish",
@@ -1191,8 +1741,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/swordfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/swordfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1792,
+      "y": 1536,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-13.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1024
+    }
   },
   {
     "id": "blueshark",
@@ -1211,8 +1771,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-light-v1/thumbs/blueshark.webp",
-    "detail": "../../assets/fish-v1/catalogue-light-v1/detail/blueshark.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 0,
+      "y": 1792,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-14.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   },
   {
     "id": "threadfish",
@@ -1231,8 +1801,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/threadfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/threadfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 256,
+      "y": 1792,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-14.webp",
+      "x": 1024,
+      "y": 0,
+      "size": 855
+    }
   },
   {
     "id": "anglerfish",
@@ -1251,8 +1831,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/anglerfish.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/anglerfish.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 512,
+      "y": 1792,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-14.webp",
+      "x": 0,
+      "y": 1024,
+      "size": 1000
+    }
   },
   {
     "id": "chimaera",
@@ -1271,8 +1861,18 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/chimaera.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/chimaera.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 768,
+      "y": 1792,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-14.webp",
+      "x": 1024,
+      "y": 1024,
+      "size": 1017
+    }
   },
   {
     "id": "unagi",
@@ -1291,7 +1891,17 @@
         "frequency": "稀有"
       }
     ],
-    "thumbnail": "../../assets/fish-v1/catalogue-polished-v1/thumbs/unagi.webp",
-    "detail": "../../assets/fish-v1/catalogue-polished-v1/detail/unagi.webp"
+    "thumbnail": {
+      "src": "../../assets/fish-v1/catalogue-v2/thumbs.webp",
+      "x": 1024,
+      "y": 1792,
+      "size": 256
+    },
+    "detail": {
+      "src": "../../assets/fish-v1/catalogue-v2/detail-15.webp",
+      "x": 0,
+      "y": 0,
+      "size": 1024
+    }
   }
 ]
