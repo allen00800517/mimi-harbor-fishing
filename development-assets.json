@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T11:59:39.666Z",
-  "bytes": 98848441,
+  "generatedAt": "2026-10-31T12:57:40.647Z",
+  "bytes": 104011109,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 2712862
+      "bytes": 2809882
     },
     {
       "path": "assets/bobber.png",
@@ -559,6 +559,14 @@
       "bytes": 231296
     },
     {
+      "path": "assets/mobile-loading-v1/buri-struggle-v1/body.webp",
+      "bytes": 792466
+    },
+    {
+      "path": "assets/mobile-loading-v1/buri-struggle-v1/effect.webp",
+      "bytes": 758310
+    },
+    {
       "path": "assets/mobile-loading-v1/chef-cast-crisp-v1/cast-00.webp",
       "bytes": 465210
     },
@@ -625,6 +633,14 @@
     {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect.webp",
       "bytes": 141662
+    },
+    {
+      "path": "assets/mobile-loading-v1/kanpachi-struggle-v1/body.webp",
+      "bytes": 681612
+    },
+    {
+      "path": "assets/mobile-loading-v1/kanpachi-struggle-v1/effect.webp",
+      "bytes": 1125292
     },
     {
       "path": "assets/mobile-loading-v1/kasago-struggle-v1/body.webp",
@@ -793,6 +809,14 @@
     {
       "path": "assets/mobile-loading-v1/sajori-struggle-v1/effect.webp",
       "bytes": 362210
+    },
+    {
+      "path": "assets/mobile-loading-v1/shimaaji-struggle-v1/body.webp",
+      "bytes": 901536
+    },
+    {
+      "path": "assets/mobile-loading-v1/shimaaji-struggle-v1/effect.webp",
+      "bytes": 806432
     },
     {
       "path": "assets/mobile-loading-v1/shirogisu-struggle-v1/body.webp",
