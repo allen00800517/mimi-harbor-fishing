@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T15:58:26.826Z",
-  "bytes": 115316431,
+  "generatedAt": "2026-10-31T16:12:02.408Z",
+  "bytes": 116913057,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -805,6 +805,14 @@
     {
       "path": "assets/mobile-loading-v1/oarfish-struggle-v1/effect.webp",
       "bytes": 659132
+    },
+    {
+      "path": "assets/mobile-loading-v1/oarfish-struggle-v2/body.webp",
+      "bytes": 1086414
+    },
+    {
+      "path": "assets/mobile-loading-v1/oarfish-struggle-v2/effect.webp",
+      "bytes": 510212
     },
     {
       "path": "assets/mobile-loading-v1/ocean-panorama.webp",
