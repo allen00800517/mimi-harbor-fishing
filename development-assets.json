@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T13:37:08.510Z",
-  "bytes": 107458037,
+  "generatedAt": "2026-10-31T14:42:07.269Z",
+  "bytes": 114971027,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 2871622
+      "bytes": 3190900
     },
     {
       "path": "assets/bobber.png",
@@ -547,6 +547,14 @@
       "bytes": 69472
     },
     {
+      "path": "assets/mobile-loading-v1/anglerfish-struggle-v1/body.webp",
+      "bytes": 1124048
+    },
+    {
+      "path": "assets/mobile-loading-v1/anglerfish-struggle-v1/effect.webp",
+      "bytes": 343700
+    },
+    {
       "path": "assets/mobile-loading-v1/bora-struggle-v1/body.webp",
       "bytes": 545730
     },
@@ -601,6 +609,14 @@
     {
       "path": "assets/mobile-loading-v1/goatfish-struggle-v1/effect.webp",
       "bytes": 1296690
+    },
+    {
+      "path": "assets/mobile-loading-v1/hammerhead-struggle-v1/body.webp",
+      "bytes": 732616
+    },
+    {
+      "path": "assets/mobile-loading-v1/hammerhead-struggle-v1/effect.webp",
+      "bytes": 715462
     },
     {
       "path": "assets/mobile-loading-v1/harbor-background-solo-v2.webp",
@@ -783,6 +799,14 @@
       "bytes": 145706
     },
     {
+      "path": "assets/mobile-loading-v1/oarfish-struggle-v1/body.webp",
+      "bytes": 915994
+    },
+    {
+      "path": "assets/mobile-loading-v1/oarfish-struggle-v1/effect.webp",
+      "bytes": 659132
+    },
+    {
       "path": "assets/mobile-loading-v1/ocean-panorama.webp",
       "bytes": 251510
     },
@@ -875,12 +899,28 @@
       "bytes": 31056
     },
     {
+      "path": "assets/mobile-loading-v1/sunfish-struggle-v1/body.webp",
+      "bytes": 1110730
+    },
+    {
+      "path": "assets/mobile-loading-v1/sunfish-struggle-v1/effect.webp",
+      "bytes": 273836
+    },
+    {
       "path": "assets/mobile-loading-v1/suzuki-struggle-v1/body.webp",
       "bytes": 584464
     },
     {
       "path": "assets/mobile-loading-v1/suzuki-struggle-v1/effect.webp",
       "bytes": 496660
+    },
+    {
+      "path": "assets/mobile-loading-v1/tobiuo-struggle-v1/body.webp",
+      "bytes": 970042
+    },
+    {
+      "path": "assets/mobile-loading-v1/tobiuo-struggle-v1/effect.webp",
+      "bytes": 348152
     },
     {
       "path": "assets/mobile-loading-v1/ui-action-button.webp",
