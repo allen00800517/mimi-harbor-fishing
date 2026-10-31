@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T12:57:40.647Z",
-  "bytes": 104011109,
+  "generatedAt": "2026-10-31T13:37:08.510Z",
+  "bytes": 107458037,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 2809882
+      "bytes": 2871622
     },
     {
       "path": "assets/bobber.png",
@@ -651,6 +651,14 @@
       "bytes": 53670
     },
     {
+      "path": "assets/mobile-loading-v1/katsuo-struggle-v1/body.webp",
+      "bytes": 735300
+    },
+    {
+      "path": "assets/mobile-loading-v1/katsuo-struggle-v1/effect.webp",
+      "bytes": 827102
+    },
+    {
       "path": "assets/mobile-loading-v1/kawahagi-struggle-v1/body.webp",
       "bytes": 827872
     },
@@ -697,6 +705,14 @@
     {
       "path": "assets/mobile-loading-v1/madai-struggle-v1/spray-02.webp",
       "bytes": 404640
+    },
+    {
+      "path": "assets/mobile-loading-v1/mahi-struggle-v1/body.webp",
+      "bytes": 896114
+    },
+    {
+      "path": "assets/mobile-loading-v1/mahi-struggle-v1/effect.webp",
+      "bytes": 926672
     },
     {
       "path": "assets/mobile-loading-v1/managatsuo-struggle-v1/body.webp",
