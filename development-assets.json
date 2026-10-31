@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T07:46:36.428Z",
-  "bytes": 87709129,
+  "generatedAt": "2026-10-31T09:16:21.990Z",
+  "bytes": 95394709,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 2291996
+      "bytes": 2569574
     },
     {
       "path": "assets/bobber.png",
@@ -519,6 +519,14 @@
       "bytes": 130884
     },
     {
+      "path": "assets/mobile-loading-v1/ainame-struggle-v1/body.webp",
+      "bytes": 781166
+    },
+    {
+      "path": "assets/mobile-loading-v1/ainame-struggle-v1/effect.webp",
+      "bytes": 242178
+    },
+    {
       "path": "assets/mobile-loading-v1/aji-struggle-v2/page-01.webp",
       "bytes": 369786
     },
@@ -595,12 +603,52 @@
       "bytes": 251136
     },
     {
+      "path": "assets/mobile-loading-v1/isaki-struggle-v1/body.webp",
+      "bytes": 799268
+    },
+    {
+      "path": "assets/mobile-loading-v1/isaki-struggle-v1/effect.webp",
+      "bytes": 155738
+    },
+    {
+      "path": "assets/mobile-loading-v1/ishidai-struggle-v1/body.webp",
+      "bytes": 1037226
+    },
+    {
+      "path": "assets/mobile-loading-v1/ishidai-struggle-v1/effect.webp",
+      "bytes": 360658
+    },
+    {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/body.webp",
       "bytes": 619032
     },
     {
       "path": "assets/mobile-loading-v1/iwashi-struggle-v1/effect.webp",
       "bytes": 141662
+    },
+    {
+      "path": "assets/mobile-loading-v1/kasago-struggle-v1/body.webp",
+      "bytes": 964710
+    },
+    {
+      "path": "assets/mobile-loading-v1/kasago-struggle-v1/effect.webp",
+      "bytes": 53670
+    },
+    {
+      "path": "assets/mobile-loading-v1/kawahagi-struggle-v1/body.webp",
+      "bytes": 827872
+    },
+    {
+      "path": "assets/mobile-loading-v1/kawahagi-struggle-v1/effect.webp",
+      "bytes": 81502
+    },
+    {
+      "path": "assets/mobile-loading-v1/kijihata-struggle-v1/body.webp",
+      "bytes": 887914
+    },
+    {
+      "path": "assets/mobile-loading-v1/kijihata-struggle-v1/effect.webp",
+      "bytes": 32082
     },
     {
       "path": "assets/mobile-loading-v1/kurodai-struggle-v1/body.webp",
@@ -745,6 +793,14 @@
     {
       "path": "assets/mobile-loading-v1/shiroguchi-struggle-v1/effect.webp",
       "bytes": 571852
+    },
+    {
+      "path": "assets/mobile-loading-v1/shiromebaru-struggle-v1/body.webp",
+      "bytes": 923380
+    },
+    {
+      "path": "assets/mobile-loading-v1/shiromebaru-struggle-v1/effect.webp",
+      "bytes": 260638
     },
     {
       "path": "assets/mobile-loading-v1/squid-struggle-v1/body.webp",
