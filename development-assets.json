@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T09:16:21.990Z",
-  "bytes": 95394709,
+  "generatedAt": "2026-10-31T09:49:23.141Z",
+  "bytes": 95349079,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 2569574
+      "bytes": 2552338
     },
     {
       "path": "assets/bobber.png",
@@ -644,11 +644,11 @@
     },
     {
       "path": "assets/mobile-loading-v1/kijihata-struggle-v1/body.webp",
-      "bytes": 887914
+      "bytes": 862944
     },
     {
       "path": "assets/mobile-loading-v1/kijihata-struggle-v1/effect.webp",
-      "bytes": 32082
+      "bytes": 28658
     },
     {
       "path": "assets/mobile-loading-v1/kurodai-struggle-v1/body.webp",
