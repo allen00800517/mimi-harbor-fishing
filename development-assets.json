@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T09:49:23.141Z",
-  "bytes": 95349079,
+  "generatedAt": "2026-10-31T10:08:04.941Z",
+  "bytes": 98848441,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 2552338
+      "bytes": 2712862
     },
     {
       "path": "assets/bobber.png",
@@ -659,6 +659,14 @@
       "bytes": 1284848
     },
     {
+      "path": "assets/mobile-loading-v1/lionfish-struggle-v1/body.webp",
+      "bytes": 1307600
+    },
+    {
+      "path": "assets/mobile-loading-v1/lionfish-struggle-v1/effect.webp",
+      "bytes": 300708
+    },
+    {
       "path": "assets/mobile-loading-v1/madai-struggle-v1/body-01.webp",
       "bytes": 363200
     },
@@ -763,6 +771,14 @@
       "bytes": 115098
     },
     {
+      "path": "assets/mobile-loading-v1/rabbitfish-struggle-v1/body.webp",
+      "bytes": 682478
+    },
+    {
+      "path": "assets/mobile-loading-v1/rabbitfish-struggle-v1/effect.webp",
+      "bytes": 164020
+    },
+    {
       "path": "assets/mobile-loading-v1/saba-struggle-v1/body.webp",
       "bytes": 478366
     },
@@ -849,6 +865,14 @@
     {
       "path": "assets/mobile-loading-v1/unagi-struggle-v1/effect.webp",
       "bytes": 219426
+    },
+    {
+      "path": "assets/mobile-loading-v1/utsubo-struggle-v1/body.webp",
+      "bytes": 849564
+    },
+    {
+      "path": "assets/mobile-loading-v1/utsubo-struggle-v1/effect.webp",
+      "bytes": 34468
     },
     {
       "path": "assets/music-v1/catch-normal.mp3",
