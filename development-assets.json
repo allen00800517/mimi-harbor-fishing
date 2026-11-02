@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T09:30:00.695Z",
-  "bytes": 117310839,
+  "generatedAt": "2026-11-02T18:06:57.818Z",
+  "bytes": 117678277,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -1121,6 +1121,14 @@
     {
       "path": "assets/shop-ui-v1/hub-v2.webp",
       "bytes": 187564
+    },
+    {
+      "path": "assets/shop-ui-v1/hub-v3-tall.webp",
+      "bytes": 201850
+    },
+    {
+      "path": "assets/shop-ui-v1/map-v2-tall.webp",
+      "bytes": 165588
     },
     {
       "path": "assets/shop-ui-v1/map.webp",
