@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T18:34:17.297Z",
-  "bytes": 117759203,
+  "generatedAt": "2026-11-02T19:39:36.136Z",
+  "bytes": 117748793,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -1103,6 +1103,10 @@
       "bytes": 18774
     },
     {
+      "path": "assets/shop-ui-v1/arrival-mask.png",
+      "bytes": 14090
+    },
+    {
       "path": "assets/shop-ui-v1/atlas.webp",
       "bytes": 816322
     },
@@ -1124,7 +1128,7 @@
     },
     {
       "path": "assets/shop-ui-v1/hub-v3-tall.webp",
-      "bytes": 282776
+      "bytes": 258276
     },
     {
       "path": "assets/shop-ui-v1/map-v2-tall.webp",
