@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T08:00:22.693Z",
-  "bytes": 118352387,
+  "generatedAt": "2026-11-16T09:40:51.875Z",
+  "bytes": 120597388,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -68,7 +68,7 @@
     },
     {
       "path": "assets/audio-v7/actions.wav",
-      "bytes": 3934086
+      "bytes": 5063046
     },
     {
       "path": "assets/bobber.png",
@@ -105,6 +105,42 @@
     {
       "path": "assets/cutin-v1/trace.webp",
       "bytes": 129990
+    },
+    {
+      "path": "assets/cutin-v2/mash-a.mp4",
+      "bytes": 128882
+    },
+    {
+      "path": "assets/cutin-v2/mash-b.mp4",
+      "bytes": 188102
+    },
+    {
+      "path": "assets/cutin-v2/numbers-a.mp4",
+      "bytes": 196099
+    },
+    {
+      "path": "assets/cutin-v2/numbers-b.mp4",
+      "bytes": 103346
+    },
+    {
+      "path": "assets/cutin-v2/reel-a.mp4",
+      "bytes": 116762
+    },
+    {
+      "path": "assets/cutin-v2/reel-b.mp4",
+      "bytes": 82116
+    },
+    {
+      "path": "assets/cutin-v2/timing-a.mp4",
+      "bytes": 101650
+    },
+    {
+      "path": "assets/cutin-v2/timing-b.mp4",
+      "bytes": 101661
+    },
+    {
+      "path": "assets/cutin-v2/trace-a.mp4",
+      "bytes": 97423
     },
     {
       "path": "assets/fish-premium-v1/aoriika.webp",
