@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T20:15:02.881Z",
-  "bytes": 117744585,
+  "generatedAt": "2026-11-16T08:00:22.693Z",
+  "bytes": 118352387,
   "files": [
     {
       "path": "assets/android/Keyboard.png",
@@ -85,6 +85,26 @@
     {
       "path": "assets/cast-v5-web/cast-02.webp",
       "bytes": 629112
+    },
+    {
+      "path": "assets/cutin-v1/mash.webp",
+      "bytes": 118534
+    },
+    {
+      "path": "assets/cutin-v1/numbers.webp",
+      "bytes": 129886
+    },
+    {
+      "path": "assets/cutin-v1/reel.webp",
+      "bytes": 100974
+    },
+    {
+      "path": "assets/cutin-v1/timing.webp",
+      "bytes": 128418
+    },
+    {
+      "path": "assets/cutin-v1/trace.webp",
+      "bytes": 129990
     },
     {
       "path": "assets/fish-premium-v1/aoriika.webp",
